@@ -37,16 +37,16 @@ bot.on("message", async message => {
     const command = args.shift().toLowerCase();
 
     //Set Variable to Format Message Date/Time/Author/Username/Content
-    var textSchlang = ((newdate)+(" ")+(message.author)+(" ")
+    var textInfo = ((newdate)+(" ")+(message.author)+(" ")
     +(message.author.username)+(": ")+(message.content)+("\r\n"));
 
     //check
-    //console.log(textSchlang);
+    //console.log(textInfo);
     
     //If A non-bot types, write log to file.
     if (message.author == (bot.user)) return;
     if (message.author != (bot.user)){
-        core.myWrite(textSchlang);
+        core.myWrite(textInfo);
     }
 });
 
