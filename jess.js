@@ -41,6 +41,22 @@ bot.on("message", async message => {
     
     //Args to lower case for processing in case people write ARG1 instead of arg1.
     const command = args.shift().toLowerCase();
+
+    if(command === "mute") {
+        var muted = false;
+
+        var role = message.guild.roles.find("name", "Muted");
+
+        for(user of client.users) {
+            var member = message.mentions.members.first();
+            member.setRoles([role]).catch(console.error);
+            muted = true;
+        }
+
+        if(!muted) {
+            message.channel.send("Can't find that person to mute.");
+        }
+    }
 });
 
 //Log the bot in.
