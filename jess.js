@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const logger = require("./logWriterJS.js");
+const logger = require("./logWriterJs.js");
 const newdate = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
 
 const bot = new Discord.Client();
