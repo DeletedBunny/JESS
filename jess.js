@@ -29,8 +29,8 @@ bot.on("message", async message => {
     //Set Variable to Format Message Date/Time/Author/Username/Content
     var textInfo = (newdate + " " + message.author + " " + message.author.username + ": " + message.content + "\r\n");
     
-    //Use function myWrite to save message to a channel named file.
-    logger.myWrite(textInfo, message.channel.name);
+    //Use function myWrite to save message to a channel named file in a server named directory.
+    logger.myWrite(textInfo, message.channel.name, "@" + message.guild.id);
 
     //If the message doesn't have the identifier .jess don't process it.
     if(message.content.indexOf(auth.prefix) !== 0) return;
