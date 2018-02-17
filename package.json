@@ -1,0 +1,22 @@
+{
+  "name": "jess",
+  "version": "1.0.0",
+  "description": "javascript engineered system sofware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CensedPie/JESS.git"
+  },
+  "author": "CensedPie & BrianSQL",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CensedPie/JESS/issues"
+  },
+  "homepage": "https://github.com/CensedPie/JESS#readme",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
