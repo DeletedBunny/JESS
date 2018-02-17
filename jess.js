@@ -8,7 +8,7 @@ const auth = require("./auth.json");
 
 bot.on("ready", () => {
     // This event will run if the bot starts, and logs in, successfully.
-    console.log('Bot has started, with ' + bot.users.size - 1 + ' users, in ' + bot.channels.size + ' channels of ' + bot.guilds.size + ' guilds');
+    console.log('Bot has started, with ' + bot.users.size + ' users, in ' + bot.channels.size + ' channels of ' + bot.guilds.size + ' guilds');
 });
 
 bot.on("guildCreate", guild => {
