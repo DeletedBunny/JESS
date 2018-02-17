@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const core = require("./core.js");
+const logger = require("./logWriterJS.js");
 const newdate = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
 
 const bot = new Discord.Client();
@@ -35,19 +35,15 @@ bot.on("message", async message => {
     
     //Args to lower case for processing in case people write ARG1 instead of arg1.
     const command = args.shift().toLowerCase();
-
-    //Set Variable to Format Message Date/Time/Author/Username/Content
-    var textInfo = ((newdate)+(" ")+(message.author)+(" ")
-    +(message.author.username)+(": ")+(message.content)+("\r\n"));
-
-    //check
-    //console.log(textInfo);
     
     //If A non-bot types, write log to file.
     if (message.author == (bot.user)) return;
-    if (message.author != (bot.user)){
-        core.myWrite(textInfo);
-    }
+
+    //Set Variable to Format Message Date/Time/Author/Username/Content
+    var textInfo = ((newdate)+(" ")+(message.author)+(" ") +(message.author.username)+(": ")+(message.content)+("\r\n"));
+    
+    //Use function myWrite to save message to a file.
+    logger.myWrite(textInfo);
 });
 
 //Log the bot in.
