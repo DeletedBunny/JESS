@@ -30,6 +30,7 @@ bot.on("message", async message => {
     //Split and trim the message content into an array of args = ["arg1", "arg2", "arg3"]
     //Ignores prefix because of slice command
     const args = message.content.slice(auth.prefix.length).trim().split(/ +/g);
+    
     //Args to lower case for processing in case people write ARG1 instead of arg1.
     const command = args.shift().toLowerCase();
 });
