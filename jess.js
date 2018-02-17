@@ -26,6 +26,12 @@ bot.on("message", async message => {
     //If the message is from a bot, don't process it.
     if(message.author.bot) return;
 
+    //Set Variable to Format Message Date/Time/Author/Username/Content
+    var textInfo = (newdate + " " + message.author + " " + message.author.username + ": " + message.content + "\r\n");
+    
+    //Use function myWrite to save message to a channel named file.
+    logger.myWrite(textInfo, message.channel.name);
+
     //If the message doesn't have the identifier .jess don't process it.
     if(message.content.indexOf(auth.prefix) !== 0) return;
 
@@ -35,12 +41,6 @@ bot.on("message", async message => {
     
     //Args to lower case for processing in case people write ARG1 instead of arg1.
     const command = args.shift().toLowerCase();
-
-    //Set Variable to Format Message Date/Time/Author/Username/Content
-    var textInfo = (newdate + " " + message.author + " " + message.author.username + ": " + message.content + "\r\n");
-    
-    //Use function myWrite to save message to a channel named file.
-    logger.myWrite(textInfo, message.channel.name);
 });
 
 //Log the bot in.
