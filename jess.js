@@ -42,8 +42,8 @@ bot.on("message", async message => {
     //Set Variable to Format Message Date/Time/Author/Username/Content
     var textInfo = ((newdate)+(" ")+(message.author)+(" ") +(message.author.username)+(": ")+(message.content)+("\r\n"));
     
-    //Use function myWrite to save message to a file.
-    logger.myWrite(textInfo);
+    //Use function myWrite to save message to a channel named file.
+    logger.myWrite(textInfo, message.channel.name);
 });
 
 //Log the bot in.

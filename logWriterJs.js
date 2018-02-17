@@ -1,7 +1,7 @@
 module.exports = {
-  myWrite: function (logFileInfo) {
+  myWrite: function (logFileInfo, channelName) {
     const fs = require('fs');
-    fs.appendFile('messageLog.txt', logFileInfo, function (err) {
+    fs.appendFile(channelName, logFileInfo, function (err) {
       if (err) {
         console.log("Print Writer has failed");
       }
