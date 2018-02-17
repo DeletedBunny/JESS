@@ -35,9 +35,6 @@ bot.on("message", async message => {
     
     //Args to lower case for processing in case people write ARG1 instead of arg1.
     const command = args.shift().toLowerCase();
-    
-    //If A non-bot types, write log to file.
-    if (message.author == (bot.user)) return;
 
     //Set Variable to Format Message Date/Time/Author/Username/Content
     var textInfo = (newdate + " " + message.author + " " + message.author.username + ": " + message.content + "\r\n");
