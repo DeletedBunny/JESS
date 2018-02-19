@@ -17,7 +17,7 @@ bot.on("guildCreate", guild => {
     
     //Create folder and files.
     for(chan of guild.channels) {
-        logger.myWrite("", chan.name, "@" + guild.id);
+        logger.myWrite("----- Start of Log -----", chan.name, "@" + guild.id);
     }
 });
 
