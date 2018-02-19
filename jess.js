@@ -17,7 +17,7 @@ bot.on("guildCreate", guild => {
     
     //Create folder and files.
     for(chan of guild.channels) {
-        logger.myWrite("----- Start of Log -----", chan.name, "@" + guild.id);
+        logger.myWrite("----- Start of Log -----", guild.name, "@" + guild.id);
     }
 });
 
@@ -30,6 +30,7 @@ bot.on("message", async message => {
 
     //If the message is from a bot, don't process it.
     if(message.author.bot) return;
+    if(message.channel.type === "dm") return;
 
     //Set Variable to Format Message Date/Time/Author/Username/Content
     var textInfo = (newdate + " " + message.author + " " + message.author.username + ": " + message.content + "\r\n");
@@ -47,6 +48,7 @@ bot.on("message", async message => {
     //Args to lower case for processing in case people write ARG1 instead of arg1.
     const command = args.shift().toLowerCase();
 
+    //command for adding user's to the muted role.
     if(command === "mute") {
 
         //Boolean for if someone was found to mute.
@@ -60,7 +62,6 @@ bot.on("message", async message => {
             message.channel.send("Muted role doesn't exist. Please create a role named Muted where the user does not have permissions to write messages.");
             return;
         }
-
         //Get mentioned user and set their role.
         var member = message.mentions.members.first();
         member.setRoles([role]).catch(console.error);
@@ -71,7 +72,21 @@ bot.on("message", async message => {
             message.channel.send("Can't find that person to mute.");
             return;
         }
+        
     }
+
+    if(command === "userinfo"){
+
+        var member = message.mentions.members.first();
+        let embed = new Discord.RichEmbed()
+        .setColor("#9B59B6")
+        .addField("Full Username", `${member.user.username}#${member.user.discriminator}`)
+        .addField ("ID", member.user.id)
+        .addField("Created At", member.user.createdAt);
+        message.channel.sendEmbed(embed);
+        
+    }
+
 });
 
 //Log the bot in.
