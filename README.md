@@ -16,7 +16,7 @@ In inspiration of the HAL9000 from 2001: A Space Odyssey, we created JESS to set
 ## Set Up
 
 1. Download our repo, you will not need to `npm install` any packages.
-The only packages currently on Jess are: discord.js , mkdir.
+Current packages on JESS are: discord.js , mkdir.
 
 2. You will want to edit the `auth.json` file in the main JESS directory, as you will need to use your own token authenticator to connect your bot.
 
