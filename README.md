@@ -20,17 +20,17 @@ Current packages on JESS are: discord.js , mkdir.
 
 2. You will want to edit the `auth.json` file in the main JESS directory, as you will need to use your own token authenticator to connect your bot.
 
-  To set up a token for bot authentication:
+    To set up a token for bot authentication:
 
-  ```
-  - Go to: https://discordapp.com/developers/applications/me
+    ```
+    - Go to: https://discordapp.com/developers/applications/me
 
-  - Create a new application
+    - Create a new application
 
-  - Create a Bot User
+    - Create a Bot User
 
-  - Reveal the Token. Paste the Token into the auth.json file
-  ```
+    - Reveal the Token. Paste the Token into the auth.json file
+    ```
 
 3. (Optional) Change the prefix in the `auth.json` file. The prefix is the text indicator which the bot will pick up to know if it is being issued a direct command, such as .jess Mute @MentionedUser.
 
