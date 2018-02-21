@@ -7,7 +7,11 @@
   In inspiration of the HAL9000 from 2001: A Space Odyssey, we created JESS to set a high standard for the open source discord.js development community.
 
 
-  
+
+
+
+
+
 
 ## Key Modules
 
@@ -49,5 +53,5 @@ Current packages on JESS are: discord.js , mkdir.
 
 ## Credits
 
-- **BrianSQL**: Core Developer.
-- **CensedPIE**: Core Developer.
+- **@BrianSQL**: Core Developer.
+- **@CensedPIE**: Core Developer.
