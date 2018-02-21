@@ -1,12 +1,12 @@
 # JESS: Javascript Engineered System Software
 
-  JESS is an Open Source Discord Bot programmed in discord.js with high functionality.
+  JESS is an Open Source Discord Bot programmed in [discord.js](https://discord.js.org/#/) with high functionality.
 
   As developers, we saw a need for well-documented, non-server-specific code for discord.js bots.
 
   In inspiration of the HAL9000 from 2001: A Space Odyssey, we created JESS to set a high standard for the open source discord.js development community.
 
-<br><br><br>
+<br>
 ## Key Modules
 
 - High Functioning Moderation commands for managing users, without granting direct admin/role access. Currently supported: Mute.
@@ -47,5 +47,5 @@ Current packages on JESS are: discord.js , mkdir.
 
 ## Credits
 
-- @BrianSQL: Core Developer.
-- @CensedPIE: Core Developer.
+- [@BrianSQL: Core Developer.](https://goo.gl/t7xU66)
+- [@CensedPIE: Core Developer.](https://goo.gl/mMKJYW)
