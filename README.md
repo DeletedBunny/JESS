@@ -6,13 +6,7 @@
 
   In inspiration of the HAL9000 from 2001: A Space Odyssey, we created JESS to set a high standard for the open source discord.js development community.
 
-
-
-
-
-
-
-
+<br><br><br>
 ## Key Modules
 
 - High Functioning Moderation commands for managing users, without granting direct admin/role access. Currently supported: Mute.
@@ -53,5 +47,5 @@ Current packages on JESS are: discord.js , mkdir.
 
 ## Credits
 
-- **@BrianSQL**: Core Developer.
-- **@CensedPIE**: Core Developer.
+- @BrianSQL: Core Developer.
+- @CensedPIE: Core Developer.
