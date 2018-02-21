@@ -32,11 +32,11 @@ To set up a token for bot authentication:
 - Reveal the Token. Paste the Token into the auth.json file
 ```
 
-You may also want to change the prefix in the `auth.json` file. The prefix is the text indicator which the bot will pick up to know if it is being issued a direct command, such as .jess Mute @MentionedUser.
+3. (Optional) Change the prefix in the `auth.json` file. The prefix is the text indicator which the bot will pick up to know if it is being issued a direct command, such as .jess Mute @MentionedUser.
 
-3. Running the bot
+4. Running the bot
 
-- We suggest you use Microsoft Visual Studio Code as your text-editor for bot development. The integrated console and general layout make for an ease of use experience. If you do not use MVSC, you should install an integrated console into your text-editor of choice. We strongly believe the integrated console is better than running a bat combined with `npm nodemon`, and a `nodemon.js` file.
+- We suggest you use Microsoft Visual Studio Code as your text-editor for bot development. The integrated console and general layout make for an ease of use experience. If you do not use MVSC, you should install an integrated console into your text-editor of choice. 
 
 ```
 To open the integrated powershell console: `control + tilde`
