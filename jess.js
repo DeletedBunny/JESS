@@ -1,5 +1,6 @@
 const Discord = require("discord.js");
 const logger = require("./logWriterJs.js");
+const triviaPeople = require("./triviaPeople.js");
 const newdate = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
 
 const bot = new Discord.Client();
@@ -51,6 +52,12 @@ bot.on("message", async message => {
     //command for adding user's to the muted role.
     if(command === "mute") {
 
+        //Admins and moderators only
+        if(!message.member.roles.some(r=>["Administrator", "Moderator", "Admin", "Mod", "administrator", "moderator", "admin", "mod"].includes(r.name))) {
+            message.reply("You do not have the required permission to use this command.");
+            return;
+        }
+
         //Boolean for if someone was found to mute.
         var muted = false;
 
@@ -75,6 +82,56 @@ bot.on("message", async message => {
         
     }
 
+    //Trivia bot
+    if(command === "trivia") {
+
+        //This doesn't work for now
+        for(person in triviaPeople.triviaPeople) {
+            if(person == message.author.id) {
+                message.author.send("You are already in a trivia game!");
+                return;
+            }
+        }
+
+        //This sends a dm with the games
+        let embed = new Discord.RichEmbed()
+        .setColor("#9B59B6")
+        .addField("I know these trivia games: ", ["1 - South Park", "2 - Warcraft 3"])
+        .addField("Write the number of the trivia game you would like to play. Time out in 30 seconds.", ["1", "2"]);
+        message.author.send(embed)
+        .then(() => {
+            //Wait for author to send a message in dm
+            message.author.dmChannel.awaitMessages(reply => reply.content.includes("1") || reply.content.includes("2"), {
+                max: 1,
+                time: 30000,
+                errors: ["time"]
+            })
+            //get the reply and send message with what game the person chose to play
+            .then((userReply) => {
+                if(userReply.first().content === "1") {
+                    message.author.send("You chose to play South Park trivia!");
+                    triviaPeople.triviaPeople.push(message.author.id);
+                }
+                else if(userReply.first().content === "2") {
+                    message.author.send("You chose to play Warcraft 3 trivia!");
+                    triviaPeople.triviaPeople.push(message.author.id);
+                }
+                else {
+                    message.author.send("I don't know that game.");
+                }
+                
+            })
+            //Times out in 30 seconds if no correct reply
+            .catch(() => {
+                message.author.send("Timed out request.");
+            });
+        });
+    }
+
+    //Trivia bot stop
+    if(command === "stop") {
+    }
+
     if(command === "userinfo"){
 
         var member = message.mentions.members.first();
@@ -83,7 +140,7 @@ bot.on("message", async message => {
         .addField("Full Username", `${member.user.username}#${member.user.discriminator}`)
         .addField ("ID", member.user.id)
         .addField("Created At", member.user.createdAt);
-        message.channel.sendEmbed(embed);
+        message.channel.send(embed);
         
     }
 

@@ -1,5 +1,5 @@
 module.exports = {
-  
+
   //function to check directory exists or not
   checkDir: function(fs, dir, callback) {
     //returns error if it doesn't exist, error is -4058 according to cmd when tested
