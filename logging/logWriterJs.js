@@ -18,7 +18,7 @@ module.exports = {
   myWrite: function (logFileInfo, channelName, guildName) {
     const fs = require('fs');   
     //directory to create or go to
-    dir = "./" + guildName;
+    dir = "./logging/messageLogs/" + guildName;
     //call function checkDir from this file
     module.exports.checkDir(fs, dir, function(error) {
       //if there is an error that isn't handled in the function
