@@ -72,7 +72,7 @@ jbot.on("message", async message => {
 
     //Args to lower case for processing in case people write ARG1 instead of arg1.
     const command = args[0].toLowerCase();
-    
+
     let execom = jbot.commands.get(command);
     if (typeof args[1] === "undefined") {
         if (execom) execom.run(jbot, message, args);
