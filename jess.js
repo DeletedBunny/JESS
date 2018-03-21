@@ -1,22 +1,38 @@
 const Discord = require("discord.js");
 const newdate = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
-
+const auth = require("./auth.json");
+const fs = require("fs");
 
 class Jess extends Discord.Client {
     constructor(options) {
         super(options);
-        this.logger = require("./logging/lotest")
+        this.logger = require("./logging/logWriter");
+        this.commands = new Discord.Collection();
     };
 
 }
-
 const jbot = new Jess();
 
-const auth = require("./auth.json");
+
+fs.readdir("./commands/", (err, dirs) => {
+    if (err) console.error(err);
+
+    let importCs = dirs.filter(f => f.split(".").pop() === "js");
+
+    importCs.forEach((f, i) => {
+        let commandImport = require(`./commands/${f}`);
+        console.log(`${i + 1}: ${f} imported`);
+        jbot.commands.set(commandImport.name, commandImport);
+
+    });
+});
+
+
 
 jbot.on("ready", () => {
     // This event will run if the bot starts, and logs in, successfully.
     console.log('Bot has started, with ' + jbot.users.size + ' users, in ' + jbot.channels.size + ' channels of ' + jbot.guilds.size + ' guilds');
+    console.log(jbot.commands);
 });
 
 jbot.on("guildCreate", guild => {
@@ -40,8 +56,7 @@ jbot.on("message", async message => {
     if (message.author.bot) return;
     if (message.channel.type === "dm") return;
 
-    // Set Variable to Format Message Date/Time/Author/Username/Content
-    var textInfo = (newdate + " " + message.author + " " + message.author.username + ": " + message.content + "\r\n");
+    let textInfo = (newdate + " " + message.author + " " + message.author.username + ": " + message.content + "\r\n");
 
     // Use function myWrite to save message to a channel named file in a server named directory.
 
@@ -56,9 +71,17 @@ jbot.on("message", async message => {
     const args = message.content.slice(auth.prefix.length).trim().split(/ +/g);
 
     //Args to lower case for processing in case people write ARG1 instead of arg1.
-    const command = args.shift().toLowerCase();
+    const command = args[0].toLowerCase();
+    
+    let execom = jbot.commands.get(command);
+    if (typeof args[1] === "undefined") {
+        if (execom) execom.run(jbot, message, args);
+    }
+    else {
+        if (execom) execom.runPost(jbot, message, args);
+    }
 
-    // command for adding user's to the muted role.
+    /*// command for adding user's to the muted role.
     if (command === "mute") {
 
         // Boolean for if someone was found to mute.
@@ -85,22 +108,7 @@ jbot.on("message", async message => {
 
     }
 
-    if (command === "userinfo") {
-
-        // Get mentioned user for user info checking. 
-        var member = message.mentions.members.first();
-
-        // Set embed properties and fields for user info output.
-        let embed = new Discord.RichEmbed()
-            .setColor("#9B59B6")
-            .addField("Full Username", `${member.user.username}#${member.user.discriminator}`)
-            .addField("ID", member.user.id)
-            .addField("Created At", member.user.createdAt);
-        // Send user-specific information to the channel.
-        message.channel.sendEmbed(embed);
-
-    }
-
+    */
 });
 
 //Log the bot in.
