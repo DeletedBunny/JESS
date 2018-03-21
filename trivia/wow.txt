@@ -1,0 +1,1054 @@
+Who is the third boss in Blackwing Lair?`Broodlord Lashlayer`Broodlord
+What is the minimum level requirement for artisan skills? (1-60)`35`thirtyfive`thirty five
+Which class can cast 'blessings'?`Paladins`Paladin
+What is the zone north of Blasted Lands called? (full name)`Swamp of Sorrows
+What is the busiest Alliance city?`Ironforge`IF
+In which instance does General Drakkisath reside?`UBRS`Upper Blackrock Spire
+What is Leeroy's surname?`Jenkins
+What race has the 'Will of the Forsaken' racial ability?`Undead`Undeads`The Forsaken`Forsaken
+What are low-leveled, buffed characters usually called?`Twinks`Twink`Twinked
+Where does each class-specific tier 0 (ex. Lightforge) leggings drop?`Stratholme UD`Stratholme`strat
+With whom must you reach exalted with to be able to buy 'The Unstoppable Force' (name one of the factions)?`stormpike`frostwolf
+Who is the final boss in Molten Core?`Ragnaros`Ragnaros the Firelord
+What does an orange-colored text on an item refer to?`Legendary Quality`legendary
+What does a purple-colored text on an item refer to?`Epic Quality`epic
+What does a blue-colored text on an item refer to?`Rare Quality`rare
+What does a green-colored text on an item refer to?`Uncommon Quality`uncommon
+Which of these pre-tbc end-game raiding instances is limited to 20 members? (UBRS, MC, AQ40, ZG, BWL`Zul'Gurub`ZG`Zul Gurub
+What is the lowest level requirement for an epic weapon?`35`thirty five
+The Elements set corresponds to which class?`Shaman`Shammy
+What is the tier 2 Priest set called?`Vestments of Transcendence`Transcendence
+The Barrens was once a great forest under the protection of the Kaldorei's. (True/False)?`True
+The three bugs in AQ40 are called Vem, Kri and ...?`Princess Yauj`Yauj
+The abbreviation 'Org' refers to?`Orgrimmar
+Duskbat Pelt drops in which zone?`Tirisfal Glades`Tirisfal
+Lethtendris in Dire Maul is what race?`Blood Elf
+Which of these classes cannot duel-wield? (Warrior, Paladin, Rogue)`Paladins`Paladin
+In which major city can the NPC Renzik 'The Shiv' be found?`Stormwind`SW
+Negolash is found wandering off which zone's coast?`Stranglethorn Vale`STV
+Which class can cast 'Unending Breath'?`Warlocks`Warlock
+Goblin Rocket Fuel can be used for Cooking. (True/False)?`true
+For humans, the starting place is called?`Northshire Valley`northshire`northshire abbey
+The King of Ironforge is called?`Magni Bronzebeard`bronzebeard
+Using the Seal of Ascension in UBRS summons which Dragon?`Vaelastrasz`Vaelastrasz the Red
+Which enchanting dust is the highest ingame at the moment?`Arcane`Arcane Dust
+The cooldown on making Mooncloth is ____ days`Four`4
+The Emerald Dragons are Ysondre, Emeriss, Taerar and _____?`Lethon
+The first wow expansion is called? (full name)`The Burning Crusade`Burnign Crusade
+Name a secondary trade skill.`First Aid`Fishing`Cooking
+How much reputation does it take to get from revered to exalted?`21000`21k`21,000
+To which zone can Druids teleport?`Moonglade
+WOW_TRIVIA_QUESTIONS[41] = "Which AQ40 boss drops the tanking trinket The Burrower's Shell?"`Ouro
+The enchant 'Enchant Chest - Major Mana' requires how many Lesser Eternal Essences?`Zero`0
+The item 'Smite's Mighty Hammer' is what weapon-type?`Mace`a mace
+_______ of Power consist of Zul'Gurub Coins, Bijous and Primal Hakkari items that can be obtained in Zul'Gurub.`Paragons`Paragon
+The dungeon 'Maraudon' was released in which content patch?`1.2
+In order to summon the Avatar of Hakkar in the Sunken Temple, you need 4x of what item?`Blood of Hakkar`blood
+Reginald Windsor plays a part in what major Alliance quest chain?`Onyxia Key`Onyxia`Ony
+Gnomes can purchase their mount just outside Ironforge, at _______'s Depot.`Steelgrill's Depot`Steelgrill`Steelgrill's
+Cured Medium Hide can be created by leatherworkers of what skill level?`100`one hundred
+Which class can cast Moonfire?`Druids`Druid
+By how much does a Priest's Inner Focus spell increase crit chance?`25%`25
+Which class has a talent tree called 'protection'?`Warriors`Warrior
+The first boss in AQ40 is called?`The Prophet Skeram`Prophet Skeram`Skeram
+Anubisath Defenders in AQ40 have 2 abilities they use close to death. Name one?`Enrage or Explode`Enrage`Explode
+Blackwing Lair was released in which content patch?`1.6
+To enter Blackwing Lair via the shortcut you need to touch an item called the _________?`Orb of Command
+Name one of the flying Dragons of Blackwing Lair.`Ebonroc`Flamegor`Firemaw`Nefarian
+Chromaggus's Brood Affliction: Blue is what kind of debuff type?`magic
+The tier 2 shoulders drop from which boss?`Chromaggus
+Acronyms: What does ZF stand for?`Zul'Farrak`zulfarrak`zul farrak
+Acronyms: What does ZG stand for?`Zul'Gurub`zulgurub`zul gurub
+What being was supposedly created by the Old God, C'thun, as a mockery of life?`Ouro`Ouro the Sandworm
+Acronyms: What does WTT stand for?`Want To Trade
+Acronyms: What does NPC stand for?`Non-Player Character`Non Player Character`Non Playing Character
+Acronyms: What does ML stand for?`Master Looter`Main Loot`Masterloot`Master Loot
+Acronyms: What does DPS stand for?`damage per second
+Acronyms: What does PoM stand for?`Presence of Mind
+Completing the quest 'Imperial Qiraji Armaments' takes how many Elementium Ore's?`Three`3
+The debuff 'Veil of Shadow' reduces healing by what percentage?`75`seventy-five
+Guess The Zone: A Desert Zone with a Goblin town in it.`Tanaris
+Guess The Zone: A Tropical Zone, with lots of coastlines, and a Goblin Port.`STV`Stranglethorn Vale
+Guess The Zone: Has volcanic terrain, and 'The Cauldron'.`Searing Gorge
+Guess The Zone: A Tropical Zone, which has a dark portal, and a mountain you can parachute off.`Feralas
+Guess The Zone: A Diseased wooded zone with special plants.`Felwood
+Guess The Zone: A Winter Zone which has hot springs.`Winterspring
+the PvP 'Grunts' rank were which rank?`Two`2
+The Maker's Terrace can be found outside which instance?`Uldaman`Ulda
+'Clam Chowder' grants a well fed buff with how much spirit and stamina?`Zero`0
+'Tender Wolf Steak' grants a well fed buff with how much spirit and stamina?`Twelve`12
+What is the cooldown of the 'Transmute: Arcanite' skill?`48 hours`2 days`two days
+How many primary and secondary professions are there all together?`Fourteen`14
+How many copper bars are required to make 1x copper chain pants?`Four`4
+How much does a linen bandage heal for (per second)?`Eleven`11
+What is the only class totally devoid of healing effects?`Mage`Mages
+Which Horde races cannot be a Shaman?`Undeads and Blood Elves`Blood Elves and Undeads
+The Valley Of Trials is the starting area for which races (name at least one)?`Orcs and Trolls`Orcs`Trolls
+How many weapon types are there (like one-handed sword, two-handed sword, dagger etc.)?`Sixteen`16
+What is the name of the zone that lies west of Tanaris?`Un'Goro Crater`Un'Goro`UnGoro
+How many combinations of races(8) and classes(9) can be made?`Forty`40
+What continent in Azeroth has two Horde capital cities?`Kalimdor
+Attempting to swim the Great Sea will ultimatly lead to death by _____?`Fatigue
+Name one of the continents in Azeroth that actually is ingame and accessible?`Eastern Kingdoms`Kalimdor
+What new profession came in the expansion? (full name)`Jewelcrafting
+
+Essence of the Red in the Vaelastrasz encounter restores how much energy per second?`Fifty`50
+The transport mechanism between the southern Barrens and Thousand Needles is called?`The Great Lift`great lift
+'Skull Rock' is found in which zone?`Durotar
+Sven and Lars can be found at which camp?`Rebel Camp`Rebel
+Larion's companion in Un'Goro Crater is called?`Muigin`Muigi
+Sten Stoutarm starts intrepid adventurers of which race(s) on their first quest?`Gnomes and dwarves`Gnomes`dwarves
+The Icebane set grants resistence to which school of magic?`Frost
+The 'Banner of Provocation' is used in which questline?`tier 0.5`t0.5
+Sarltooth in the Wetlands is what type of beast?`Raptor
+Light Feathers are used as a reagent by which class(es)?`Mage and Priest`Mage`Priest
+To throw a 'Rough Dynamite' requires what skill level in Engineering?`1`One
+Jaina Proudmoore's father is called?`Daelin Proudmoore`Daelin
+Cooking a 'Herb Baked Egg' requires which type of spice?`Mild Spices`mild
+Huhuran's Stinger grants how much extra agility?`Eighteen`18
+The 'Soulforge' set can only be used by which class?`Paladins`Paladin
+The Twilight Vale can be found in which zone?`Darkshore
+What is the duration on Prayer of Shadow Protection?`20 Minutes`20 min`20 mins
+How many tracks is there in The Burning Crusade soundtrack?`22`twenty two`twenty-two
+The Bramblewood set grants resistance to what?`Nature`NR
+The Doom Touched Warriors are found in which instance?`Naxxramas`Naxx
+What will undead NPC's not do?`Swim`swimming
+What is the Wildbend River called further upstream?`Bloodvenom River`Bloodvenom
+The NPC Donni Anthania sells which kind of non-combat pet?`cats`cat
+What is the Rogue's tier 3 called?`Boneschyte Armor --1x1 here
+To get a pet chicken (Chicken Egg) players must complete which quest?`CLUCK!`cluck
+Amberseal Keeper grants how much magical resistance to all?`Five`5
+What is the biggest lake in Azeroth?`Lordamere Lake`Lordamere
+Upon using an Orb of Deception, what race will a dwarf turn into?`Darkspear Troll`Troll
+Who is the father of the dreaded Lord of Blackrock, Nefarian?`Neltharion`Deathwing`The Earth-warder`Neltharion the Earth-Warder
+What is the name of the original World Tree?`Nordrassil
+How many people does it take to perform a Ritual of Summoning?`Three`3
+In which patch was the honor system implemented?`1.4
+In which patch were the first battlegrounds added?`1.5
+In which patch were weather effects implemented?`1.10
+In which patch was the Druid talent review?`1.8
+In which patch was the Mage talent review?`1.11
+Which class(es) has a restoration talent tree? (name both or one of them)`Druid`Shaman`Shamans`Druids`Druid and Shaman`Druids and Shamans`Shaman and Druid`Shamans and Druids
+To get 120 energy, Rogues must have 5 / 8 Nightslayer, and 31 points in which talent tree?`Assassination
+Which racial skill breaks fear effects?`Will of the Forsaken`wotf
+What are Mages also known as (especially before a raid)?`Vending Machine`vendor`water vendor
+What is the duration of a Rogue's 5 point kidney shot? (__ sec)`6 seconds`6 secs`6 sec`6`six
+What is the hardest race to target in a Battleground?`Gnome`Gnomes
+What color does a Rogue have on CT_Raid?`Yellow
+How many parts does the Temple of Ahn'Qiraj sets have? (hint: Tier 2.5)`Five`5
+Which element slows Viscidus, and is needed in order to defeat him?`Frost
+How many bosses can drop tier 2 gloves in Blackwing Lair?`Three`3
+Who is known as 'The Ashbringer'?`Highlord Mograine`Mograine
+Which drop from Hakkar allows you to get 3 different epic trinkets? (full name)`Heart of Hakkar
+What level of reputation with Argent Dawn is needed in order to attune to Naxxramas?`Honored
+What herb is required for all the Greater Protection potions?`Dreamfoil
+Which instance is located in Silverpine Forest?`Shadowfang Keep`SFK
+At what percentage of health does Princess Huhuran enrage?`30%`30`thirty
+How much spellcrit does the 'Rallying Cry of the Dragonslayer' buff give?`10`10%
+Which Naxxramas boss has two helpers called Stalagg and Fuegan?`Thaddius
+Who drops the Hunter book 'Tranquilizing shot'?`Lucifron
+Which class is considered the 'purest' of the healing classes?`Priest
+How many tracks does the world of warcraft soundtrack have?`30`thirty
+How much rage does the improved berserker rage talent (2/2) generate?`10`ten
+How long does the unimproved Shield Wall last? ( ___ sec)`10 seconds`10`ten`ten secs`ten sec`10 sec
+What tier is the Improved Berserker Stance talent on, as a Warrior, in the fury talent tree?`8`eight
+How much damage does each point of rage convert into on the last rank of Execute?`18`eighteen
+Switching Stances constantly as a Warrior is called?`stance dance`stance dancing`stance-dancing`stance-dance
+The last rank of Sunder Armor reduces armor by how much?`520`Five hundred twenty
+Piercing Howl reduces the movement speed of enemies by what percentage?`50%`50`fifty
+Overpower can only be used after the target does what?`dodge`dodges
+The talent Blood Craze can be found in which talent tree?`Fury
+Rend (Rank 8) causes ___ damage over 21 secs.`182`One hundred eighty two
+Which Warrior ability reduces healing effects by 50%?`Mortal Strike`MS
+Which sword was too powerful to be included in the game? (hint: Southpark)`The Sword of a Thousand Truths`sword of a thousand truths`sword of a 1000 truths
+How much spell damage does the Zandalarian Hero Charm increase?`204`two hundred four
+Which races can use a Mechanostrider Mount? (x and y)`dwarves and Gnomes`Dwarf and Gnome`Gnomes and dwarves
+How long cooldown does the Zandalarian Hero Charm have?`2 minutes`2 min`2`2 mins`two minutes`two min`two`two mins
+How long cooldown does the Mage spell 'Blastwave' have?`45 seconds`45 sec`45`45 secs
+What is Mages with talents mainly in Frost and Fire called?`Elemental`Elemental Mages
+What two things can a Mage polymorph his foe into, besides a sheep? (x and y)`Pig and Turtle`Turtle and Pig
+Which boss drops Ashkandi, greatsword of the Brotherhood?`Nefarian
+What beast is Grimclaw, which patrols Darkshore?`Bear`Icebear`Ice-bear
+How many people are there in a full party?`5`five
+How many people are there in a full raid?`40`forty
+Who can teach you how to use one handed swords in Stormwind?`Wu Ping
+Curse of agony ticks every ___ seconds?`Two`2
+Curse of doom ticks for how much base damage?`4200`four thousand two hundred
+How many statues is there outside Stormwind?`6`Six
+Where is the Valley of Heroes?`Stormwind`SW
+Where is the Valley of Kings?`Loch Modan
+Which class originally soloed Kazzak?`Paladin`Paladins
+How many DoTs can a warlock have as abilities?`5`Five
+Name a DoT which was added to the Warlock class in TBC?`Unstable Affliction`Seed of Corruption
+What class besides a Warrior has a talent tree called protection?`Paladin`Paladins
+Before the Paladin revamp, what was the top tier spell in the retribution tree of Paladins?`Blessing of Kings`BoK
+How many capital cities is there ingame, including Shattrath?`9`Nine
+On which boss in Naxxramas do you have to mind control a mob, but not use it for more than 5 seconds?`Grand widow faerlina`Faerlina
+What is the Alliance equivelent to Will of the Forsaken? (gives a great advantage against a certain class)`perception
+Who originally dropped the lightforge gauntlets?`Emperor Dagran Thaurissan`Dagran Thaurissan
+In which zone does most blindweed grow?`Swamp of Sorrows
+Which is the only zone where you can find gromsblood, mountain silversage and dreamfoil?`Felwood
+Which flask provides players with an extra 400 HP for 2 hours?`Flask of the Titans`titans`titan
+Loatheb usually requires many Greater ______ Protection Potions.`Shadow
+What is the name of the monument in Azshara that has been broken in half?`Ravencrest Monument`Ravencrest
+What is the name of the last boss in Shadowfang Keep?`Arugal`Archmage Arugal
+What is the ideal amount of Warriors for the 4 Horsemen fight in Naxxramas?`8`Eight
+Blackwing Lair was introduced in which patch?`1.6
+Gothik the Harvester in Naxxramas has how many waves of adds?`18`Eighteen
+What trinket allows you to kill yourself when equipped?`Crystal of Zin-Malor`Zin-Malor
+What is the color of the rarest AQ40 mount that drops from trash mobs?`red
+What herb will sometimes spawn instead of grave moss in the SM graveyard?`Kingsblood
+What is the name of the raiding instance in Netherstorm? (full name)`Tempest Keep
+What debuff once allowed Horde players to attack NPCs of their own faction?`Mark of Shame
+Who is the final boss you have to kill for the tier 0.5 series of quests?`Lord Valthalak`Valthalak
+Greater Shadow Protection potions require one dreamfoil, one __________, and one crystal vial.`shadow oil
+How long is the auto-release timer when you die outside of an instance?`6 minutes`6 min`6 mins
+Name one of the two bosses you must kill during the Thaddius fight before you face Thaddius himself.`Stalagg`Feugen
+The 'Fungal Bloom' debuff in the Loatheb fight gives how much bonus to crit chance?`60%`60
+The Pools of Vision are found in what main city? (full name)`Thunder Bluff
+What is the name of the lowest level zone in Outland?`Hellfire Peninsula
+Which zone do Druids gain a teleport to at level 10?`Moonglade
+Flasks can be crafted in two instances and one zone in the game. Name one?`Blackwing Lair`Scholomance`Shattrath`Shattrath City
+What creature despawns at 20%, saying it is 'not his time yet'?`Anachronos
+Which zone contains the original World Tree? (full name)
+WOW_TRIVIA_ANSWERS1[212] = "Mount Hyjal"
+What is the name of the elite Dragon who patrols the Blasted Lands?`Teremus the Devourer`Teremus
+How many mini-bosses are there on the top-level of the Sunken Temple?`6`Six
+What does Gluth eat to regain health?`Zombie Chow`zombies`zombie
+Maexxna enrages at what health percentage?`30`30%`Thirty
+Who is the most damaging boss in Naxxramas?`Instructor Razuvious`Razuvious
+Which boss drops the tier 2 headpieces?`Onyxia`Ony
+How many parts does the tier 3 armor set have?`9`Nine
+The tunnel to Stonetalon Mountains from Ashenvale will deposit you near the road. (True/False)?`False
+What is the second last boss in Molten Core?`Majordomo Executus`Majordomo
+In the AQ War Effort, what item was required in the greatest number?`Linen bandages
+What does Ragnaros summon when he submerges after 3 minutes of combat?`Sons of Flame
+What Rogue leggings does Ragnaros drop?`Bloodfang Pants`Bloodfang
+Who is the 'Dad' in the Bug Family in AQ40?`Lord Kri`Kri
+When the game was released, the mobs of which zone had no loot?`Silithus
+Which Blackwing Lair boss drops the tier 2 Bracers?`Razorgore the Untamed`Razorgore
+What is the name of the bar in Blackrock Depths?`The Grim Guzzler`Grim Guzzler
+How many bosses in AQ20 must be kited to kill them?`2`two
+Who has the lowest health of all the bosses in Naxxramas?`Gothik the Harvester`Gothik
+How many optional encounters does AQ40 have?`3`Three
+The Gurubashi Arena event takes place at ____-hourly intervals?`3`three
+In what patch were the 4 world Dragons introduced?`1.8
+What is the lowest level instance in the game?`Ragefire Chasm`RFC
+What is the name of the draenei capital city?`The Exodar`Exodar
+Which Alliance race has +15 engineering as racial passive?`Gnome`Gnomes
+Acronyms: What does ATP stand for?`Attack Power
+How many fears does the Warlock class have?`2`two
+Druids can do Physical, Nature and ______ damage.`Arcane damage`arcane
+What boss is a anagram for healbot?`Loatheb
+How many PvP ranks existed in the old honor system?`14`fourteen
+At what PvP rank could you buy PvP mounts? (number)`11`eleven
+Arcane Resilience will increase your armor by what % of your intellect?`50%`Fifty`50
+What instance is sometimes called 'UD'?`Stratholme`Strat
+Name a faction that is part of the Steamwheedle Cartel.`Booty Bay`Everlook`Ratchet`Gadgetztan
+What race has the racial skill 'Diplomacy'?`Human`Humans
+Blizzard will do up to 1472 damage over ___ seconds?`8`eight
+Evocation has a ___ min cooldown?`8`eight
+Mages can Polymorph you into a goat. (True/False)?`False
+Which class can cast Fear?`Warlock
+The  tier 3 Mage set is called?`Frostfire
+Which is the most hated instance?`Gnomeregan
+Acronyms: What does DKP stand for?`Dragon Kill Points
+Who is being held captive by the Baron in Stratholme?`Ysida Harmon`Ysida
+What epic sword set was 'Forged in the seething flames of hatred'?`The Twin blades of Hakkari`Twin blades of Hakkari
+What is the name of the fruit vendor patrolling in Ironforge (The Mystic Ward)?`Bimble Longberry`Longberry`Bimble
+What is the name of the food you get from the Mage spell 'Conjure food (Rank 1)'?`Muffin`Muffins`Conjured Muffins`Conjured Muffin
+Humanoids can drop linen cloth from level _.`8`eight
+One area in Silverpine Forest is called '______ Isle'.`Fenris
+Where does most of the Blue Dragonflight reside?`Northrend
+Where does most of the Black Dragonflight reside?`Blackrock Mountain`Blackrock Spire`Burning Steppes
+Where does most of the Bronze Dragonflight reside?`Caverns of Time`Tanaris
+Where does most of the Red Dragonflight reside?`Grim Batol`Wetlands
+Where does most of the Green Dragonflight reside?`The Emerald Dream`Emerald Dream`Swamp of Sorrows
+Who is the leader of the Bronze Dragonflight?`Nozdormu`Nozdormu the Timeless one
+Who is the leader of the Green Dragonflight?`Ysera`Ysera the Dreamer
+Who is the leader of the Red Dragonflight?`Alexstraza
+WOW_TRIVIA_ANSWERS2[267] = "Alexstrasza the Life-Binder"`Alexstrasza the Life Binder
+Who is the leader of the Blue Dragonflight?`Malygos`Malygos the Spell-Weaver`Malygos the Spell Weaver
+Who is the leader of the Black Dragonflight?`Neltharion`Deathwing`Neltharion the Earth-Warder`Deathwing the Destroyer
+The Black Dragonflight was originally which color, before becoming corrupted?`Brown
+To where does the portals which the corrupted Emerald Dragons are guarding, lead?`The Emerald Dream`Emerald Dream
+Name one of the two places where Eranikus can be found.`Sunken Temple or Moonglade`Sunken Temple`Moonglade`Moonglade or Sunken Temple
+With the Genesis (t2.5) set bonus, what is the cooldown on Rebirth for Druids?`20 minutes`Twenty minutes`Twenty mins
+The only non-combat pet with an effect on gameplay is the _____.`Disgusting Oozeling
+What is the name of the mount you can obtain through the repeatable quests in Winterspring?`Reins of the Winterspring Frostsaber`Winterspring Frostsaber
+What is the name of the dranei mount?`Elekk
+Who is the mighty Warrior you must defeat in the Upper Blackrock Spire in order to obtain the tier 0 Warrior shoulders?`Rend`Rend Blackhand`Warchief Rend Blackhand
+In the Upper Blackrock Spires is a giant hound named 'The ____'.`Beast
+What dragon drops the tier 2 headpieces? (the full name)`Onyxia
+How long does it take for a Rogues stealth to be ready after unstealthing (Without Talents)?`10 seconds`10 secs`10 sec
+The cooldown for Goblin Jumper Cables is ____ minutes?`30`30 mins`30 minutes`30 min
+Who does the trinket Warmth of Forgiveness drop off?`The Four Horsemen`Four Horsemen
+What is the Hunter's tier 3 called?`Cryptstalker
+What plate item collection from Naxxramas increases frost resistance?`Icebane
+Prince ______ is the Scourge Ambassador to the Vrykuls.`Keleseth
+What is the full name of the last boss in The Deadmines?`Edwin Van Cleef
+What rare spawn in Stratholme drops Piccolo of the Flaming Fire?`Hearthsinger Forresten`Forresten
+What is the name of the zone that you'll teleport into after entering the dark portal at Blasted Lands?`Hellfire Peninsula
+Blizzard Entertainment is owned by which company?`Vivendi Universal Games`vivendi
+What is the homeworld of the eredar called?`Argus
+What is the undead's starting place called?`Deathknell
+In which talent tree can the spell 'Dark Pact' be found?`Affliction
+In which talent tree can the spell 'Soul Link' be found?`Demonology
+What lvl of First Aid is required to learn Artisan First Aid?`225
+Which class(es) can breathe under water infinitely?`Warlock`Shaman`Druid
+In which zone can you find Donova Snowden`Winterspring
+How many items is there in a tier 3 set?`9`Nine
+What were the Blood Elves originally called?`high elfs`high elves
+What race has Escape Artist as their racial?`Gnomes`Gnome
+What is the Warlocks second pet called?`Voidwalker`vw
+What is the highest rank of Fireball?`Rank 13`13`thirteen
+How much resources do you need to win an Arathi Basin match?`2000`two thousand
+What type of resistance do you need for the Sapphiron encounter?`Frost
+What kind of monster is Onyxia?`Dragon`Dragonkin
+On which continent is Deadwind Pass found?`eastern kingdoms
+In what instance does Illidan the Betrayer reside in?`The Black Temple`black temple`bt
+What will Piccolo of the Flaming Fire make you do?`Dance`dancing
+Which boss do you need to defeat in order to aquire 'Thunderfury, The Blessed Blade of the Windseeker', if you have the bindings?`Prince Thunderaan`thunderaan
+Gnomes can be Druids. (True/False)??`False
+Blood elves cannot be Warriors. (True/False)?`True
+Name the crafted engineering item that only affects beasts`Flash Bomb
+How many Elementium Ore does it take to make a bar?`One`1
+The acronym 'WPL' refers to?`Western Plaguelands
+What is the name of the blood elves capital city?`Silvermoon`Silvermoon city`The Silvermoon`The Silvermoon City
+What is the starting place for Orcs?`Valley of Trials`The Valley of Trials
+In what zone lies Tempest Keep?`Netherstorm`The Netherstorm
+In what zone is Razorfen Kraul in?`The Barrens`Barrens
+In what zone does Gruul the Dragonslayer live?`Blade's Edge Mountains`Blades Edge Mountains
+In what zone is Auchindoun in?`Terokkar forest`Terokkar
+In what zone does Lady Vashj reside in?`Zangarmarsh
+In what zone can you fight the fel orc's of Kargath Bladefist?`Hellfire Peninsula
+What is the name of dranei's starting zone?`Azuremyst Isle
+What is the name of the blood elves starting zone?`Eversong Woods
+What is the name of zone that contains Zul'Aman?`Ghostlands`Ghostland
+Acronyms: What does JC stand for?`Jewelcrafter`Jewelcrafting
+What is the skill limit on proffesions?`375`Three hundred seventy five
+Where is Caverns of Time?`Tanaris
+Where do you fight 'Epoch Hunter'?`Durnholde`Escape from Durnholde Keep`CoT - Durnholde`CoT - Escape from Durnholde Keep`Escape from Durnholde`CoT - Escape from Durnholde
+What is the name of the zone where you protect Medivith? Its future name is the Blasted Lands.`Black Morass
+In what zone is Molten Core?`Searing Gorge`Burning Steppes
+In what zone is Zul'Gurub?`Stranglethorn Vale`STV
+In what zone is Naxxramas?`Eastern Plaguelands`EPL
+What was the patch that came out before the expansion (tbc) called?`Before the Storm
+What is the name of the populare auctioning addon?`Auctioneer
+In the expansion, some of the heroic dungeons will offer new content, instead of just being harder. Such as new ______ and new areas. This is only for some of the new instances, though. The old heroic instances wont get this.`bosses
+What mob-type is the realm Daggerspine named after?`naga`nagas
+What is the blood elves mount called?`Hawkstrider
+What guild is infamous for its raiding achievments, such as world first C'thun and Kel'Thuzad kill?`Nihilum
+What guild is considered to be the 'best' raiding guild in terms of first kills and that sort of things, on the US servers?`DT
+WOW_TRIVIA_ANSWERS2[339] = "Death & Taxes";`Death and Taxes
+WCRadio.com is a wow-radio that plays online shows every now and then. (True/False)?`True
+What mob type is the realm Bloodfeather named after?`Harpies`Harpy
+Al'Akir is a _________. (The race)`Elemental
+Aszune was a woman that was turned into a statue of living stone by the Oracle. What race was she?`night elf`Kaldorei
+What is the nathrezim race also known as?`Dreadlord`Dreadlords
+What is Bladefist's first name?`Kargath
+What is 'The Venture Co.' mostly made of?`Goblin`Goblins 
+Who became the first satyr?`Xavius
+Where is Uldum located?`Tanaris
+Who is C'thun?`Old God`an Old God
+WOW_TRIVIA_QUESTIONS[350] = "Who leads the orcish Dragonmaw clan?"
+WOW_TRIVIA_ANSWERS1[350] = "Zuluhed the Whacked"`Zuluhed
+The acronym 'SW' refers to?`Stormwind
+The acronym 'UC' refers to?`Undercity
+The acronym 'SM' refers to?`Scarlet Monastery
+The acronym 'RFD' refers to?`Razorfen downs
+The abbreviation 'BFD' refers to?`Blackfathom Deeps
+Anetheron is a lich. (True/False)?`False
+What zone lies north of Ashenvale?`Felwood
+The acronym 'WC' refers to (in wow)?`Wailing Caverns
+The acronym 'RFK' refers to?`Razorfen Kraul
+The acronym 'RFC' refers to?`Ragefire Chasm
+The acronym 'PST' refers to?`Please send tell
+The acronym 'Strat' refers to?`Stratholme
+The acronym 'ST' refers to?`Sunken Temple`The Temple of Atal'hakkar`Temple of Atal'hakkar
+The abbreviation 'Ony' refers to?`Onyxia
+The acronym 'IF' refers to?`Ironforge
+The abbreviation 'Uld' refers to?`Uldaman
+The acronym 'UBRS' refers to?`Upper Blackrock Spire
+The acronym 'BRS' refers to?`Blackrock Spire
+The acronym 'LBRS' refers to?`Lower Blackrock Spire
+The acronym 'DOT' refers to?`Damage over Time
+The acronym 'HOT' refers to?`Healing over Time
+The acronym 'WTB' refers to?`Want to buy
+The acronym 'WTS' refers to?`Want to Sell
+The acronym 'GZ' refers to? (not the city, the word)`Congratulations
+The abbreviation 'Scholo' refers to?`Scholomance
+The acronym 'XP' refers to?`Experience Point`Experience Points
+The acronym 'DM' refers to what instance, in Feralas?`Dire Maul
+The acronym 'DM' refers to what instance, in Westfall?`The Deadmines`Deadmines
+The acronym 'AV' refers to?`Alterac valley
+The acronym 'AB' refers to?`Arathi Basin
+The acronym 'WSG' refers to?`Warsong Gulch
+The acronym 'AOE' refers to?`Area of Effect`Area of Effects
+The acronym 'LFM' refers to?`Looking for More`Looking for more people
+The acronym 'LFG' refers to?`Looking for Group
+The acronym 'Mara' refers to?`Maraudon
+The acronym 'MT' refers to?`Main Tank
+The acronym 'OT' refers to?`Off tank
+The acronyms 'IRL/RL' refers to? (name one of them)`In real life`real life
+The acronym 'GM' refers to? (name one of them)`Game Master`Guild Master
+The acronym 'HFR' refers to?`Hellfire Ramparts
+The acronym 'SH' refers to?`Shattered Halls`The Shattered Halls
+The acronym 'SP' refers to?`Slave Pens`The Slave Pens
+The acronym 'UB' refers to?`Underbog`The underbog
+The acronym 'SV' refers to?`The Steamvault`Steamvault
+The acronym 'NE' refers to (not the direction, the race)?`night elf
+The acronym 'WOTLK' refers to?`Wrath of the Lich King
+The abbreviation 'Resto' refers to what? (hint: talent tree)`Restoration
+The abbreviation 'Mats' refers to?`Materials
+The acronym 'PUG' refers to?`pick up group
+The acronym 'CC' refers to?`Crowd Control
+The acronym 'AP' refers to?`Attack power
+The acronym 'LOS' refers to?`line of sight
+The acronym 'AQ20' refers to? (the full name)`Ruins of Ahn'Qiraj`The Ruins of Ahn'Qiraj
+The acronym 'AQ40' refers to? (the full name)`Temple of Ahn'Qiraj`The Temple of Ahn'Qiraj
+The acronym 'BEM' refers to?`Blade's Edge Mountains`Blades Edge Mountains
+The acronym 'BWL' refers to?`Blackwing Lair
+The acronym 'KZ' refers to? (the full name)`Karazhan
+The acronym 'EPL' refers to?`Eastern Plaguelands
+The acronym 'CFR' refers to?`Coilfang Reservoir
+The acronym 'SL' refers to?`Shadow Labyrinth
+The acronymn 'SSC' refers to?`Serpentshrine Cavern
+The acronym 'SMV' refers to?`Shadowmoon valley
+The drop chance for Baron Rivendare's mount is how much? (about, in percents)`0,01%`0.01%`0,01`0.01
+Where is Maraudon?`Desolace
+the Scourge was created by a being called ______________.`The Lich King`Lich King
+The acronym 'DW' refers to?`Dual wield
+The acronym 'HS' refers to?`Hearthstone
+The acronym 'FR' refers to?`Fire resistance
+The acronym 'NR' refers to?`Nature resistance
+The acronym 'SR' refers to?`Shadow resistance
+The acronym 'XR' refers to?`Crossroads
+The acronym 'TM' refers to?`Tarren Mill
+The acronym 'TB' refers to?`Thunder Bluff
+The abbreviation 'Darn' refers to?`Darnassus
+The acronym 'CoE' refers to?`Curse of Elements`Curse of the Elements
+The acronym 'CoS' refers to?`Curse of Shadow
+The acronym 'FW' refers to?`Fear ward
+The acronym 'VW' refers to?`Voidwalker
+What is the name of the capital city of the fallen nerubian empire?`Azjol-Nerub
+What is the Boulderfist clan made of?`Ogres`Ogre
+Keeper Remulos is the son of Cenarius. (True/False)?`True
+Cenarius is a Demigod. (True/False)?`True
+What is the name of the new World Tree?`Teldrassil
+What is Deathwing also known as?`Neltharion`Neltharion the Earth Warder`Neltharion the Earth-Warder
+The Bloodscalp tribe is what kind of trolls?`Jungle`Jungle Trolls
+Who created the Twilight's Hammer?`Cho'gall`Chogall
+Where does the Crushridge clan live?`Alterac`Alterac Mountains
+Where can you find Chrommagus?`Blackwing Lair`BWL
+Dalaran is a city in the Hillsbrad Foothills. (True/False)?`false
+What is 'Darrowmere'? (ex. a city)`Lake`A lake
+Who founded Quel'thalas?`Dath'Remar`Dath Remar`Dath'Remar Sunstrider`Dath'Remar Sunstrider
+What is the the name of the organization that is causing Stormwind major trouble? The organization has taken over nearly all of westfall.`Defias Brotherhood`The Defias Brotherhood
+What race is Detheroc?
+WOW_TRIVIA_ANSWERS1[443] = "Dreadlord"`Nathrezim
+What is Doomhammer's first name?`Orgrim
+Who is Thrall's mother?`Draka
+What was Outland's true name, before it was sundered?`Draenor
+Who is Thrall's advisor?`Eitrigg
+Howling Fjord is the place where the emerald dream is supposed to be accessable. (True/False)?`False
+What is Eonar? (ex. a naga)`Titan`Vanir Titan`A titan`A Vanir Titan
+WOW_TRIVIA_QUESTIONS[450] = "Frostmourne is the Lich King's weapon. (True/False)?"
+WOW_TRIVIA_ANSWERS1[450] = "True"
+The Firetree tribe, which is made of forest trolls, resides in?`UBRS`Upper Blackrock Spire
+What rank was Garithos in the armies of Lordaeron before he was killed by Varimathras?`Grand Marshall`14 -- Grand Marshal = 14
+Genjuros was the _______ of the blackrock clan before he died.`Blademaster
+Gilneas is located in the _________ and is currently unaccessible. (hint: the continent)`Eastern kingdoms
+Who is the leader of Gilneas?`Greymane`Genn Graymane
+The Gurubashi empire is made of ogres. (True/False)?`False
+What is Hakkar's fullname?`Hakkar the Soulflayer
+What was Hellscream's first name?`Grom
+Who lead the Warsong clan, before Thrall united all the orcs in Azeroth?`Grom Hellscream
+What is the largest glacier on Azeroth?`Icecrown Glacier`The Icecrown glacier`The Icecrown`Icecrown
+Who is Malfurion Stormrage's brother?`Illidan
+WOW_TRIVIA_ANSWERS2[461] = "Illidan Stormrage"
+Kel'Thuzad was killed by adventurers who entered Naxxramas. (True/False)?`False
+Kirin Tor is a crime syndicate currently located in Gilneas. (True/False)?`False
+Rexxar is half orc, and half demon. (True/False)?`False
+In the tauren mythology, Elune is known as Mu'sha and is the left eye of the ___________.`Earthmother`the Earthmother
+Rexxar helped Thrall when he founded Durotar. (True/False)?`True
+Who is known as 'the Lightbringer'?`Uther
+Lethon was a Lieutenant of Ysera .(True/False)?`True
+Lord Anduin Lothar was the last descendant of the ______ royal bloodline, and was known as the 'Lion of Azeroth'.`Arathi
+The Maelstrom transformed some of the highborne's into naga's. (True/False)?`True
+__________ was the former leader of Outland.`Magtheridon
+__________ was the father of Cenarius.`Malorne
+Archimonde killed Cenarius father, Malorne, in the War of the Ancients. (True/False)?`True
+What was Cenarius father, Malorne, also known as?`The white stag
+The Earthen Ring is made of _________.`Shamans
+What is Malygos the Blue aspect over?`Magic
+_________ is the leader of the Blue Dragonflight.`Malygos
+Mannoroth quickly became one of the favoured Generals of Archimonde and Kil'Jaeden. (True/False)`False
+What was Mannoroth known as? (for ex. Archimonde the Defiler)`Mannoroth the Destructor`the Destructor
+_________ opened the Dark Portal when he was possessed by Sargeras.`Medivh
+_______ the Tidehunter was a Elemental Lieutenant of the Old Gods.`Neptulon
+Ragnaros is a Elemental lieutenant of the Old Gods. (True/False)?`True
+Ner'zhul was known as the elder _________ of the orcs, before he was transformed into the Lich King.`shaman
+___________ is a male Aesir Titan. Master of the arcane magic, knowledge, secrets, and mysteries.`Norgannon
+Lord ______ of Alterac betrayed the Alliance and attempted to assasinate lord Uther.`Perenolde`Aieden Perenolde
+The Quel'dorei is a term meaning ________ in Thalassian.`high elves`high elfs
+Lord Kur'talos ________ was the master of the Black Rook Hold.`ravencrest
+________ was the leader of the Darkspear tribe before he was killed by murlocs. A troll village in Durotar is named after him.`Sen'jin`Senjin
+The Shadow Councill has their base in Hillsbrad Foothills, in the mountains close to Alterac. (True/False)?`False
+What is the name of the Archbishop who created the Paladin order of the Silver Hand, together with Uther.`Alonsus Faol`Archbishop Alonsus Faol
+The domain of air is called The _______ on the Elemental Plane.`Skywall
+The domain of earth is called _______ on the Elemental Plane.`Deephome
+The domain of fire is called The ________ on the Elemental Plane.`Firelands
+The domain of water is called The ___________ on the Elemental Plane.`Abyssal Maw
+The ____________ Cartel is the largest and most successful of the Goblin Cartels in Undermine.`Steamwheedle
+_______________ the naga tribe, is currently dwelling in the northern Darkshore. (hint: This is also a realm name, in both the EU and the US)`Stormscale
+The 'oprah event' is in ___________.`Kara`Karazhan
+--here
+Where can you find Garr?`Molten Core`MC
+Where can you find Baron Geddon?`Molten Core`MC
+Agamaggan was an immortal giant _____ which legend say was among the first living creatures to roam Azeroth.`Boar
+Broodlord Lashlayer resides in ____________?`Blackwing Lair`BWL
+Mal'ganis was killed alongside with a large portion of the Scourge that thought they had achieved victory. (True/False)?`False
+The Lich King is controlled by Kil'Jaeden. (True/False)?`false
+The Lich King and Arthas were fused into a single entity. (True/False)?`True
+Suramar was a keldorei city, which was destroyed by the _____________ during the War of the Ancients.`Burning Legion
+The World of Warcraft official soundtrack is only availible if you purchased the Collector's edition. (True/False)?`False
+The Sha'tar resides in _______________.`Shattrath City`Shattrath
+The __________ clan in blade's edge mountain was killed by the Shadowmoon clan, who were led by Ner'zhul.`Thunderlord
+Vek'nilash is the third boss in SSC. (True/False)?`False
+What is the name of the populare addon which has a database of every thing you have picked, since you had the addon?`Gatherer
+Guess the Zone: This zone is very nature-looking, and has light-green crystals glowing all over the place.`Terokkar`Terokkar forest
+The zone northwest of Terokkar Forest is known as ______________.`Zangarmarsh
+The shattered floating remnants of the red world is also known as __________.`Outland`The Outland
+World of Warcraft has a total of _____ million subscribers at the moment.`9`nine
+Guess the Zone: This zone is a giant farm land, and is nearly controlled solely by the Defias Brotherhood.`Westfall
+Guess the Zone: Gruul's son Durn patrols around the enormeous crystal in this zone.`Nagrand
+Guess the Zone: This zone has Eco Domes, and is known for its large population of blood elves. This zone features four instances.`Netherstorm`The Netherstorm
+Guess the Zone: This zone is known for the Camp of Boom, and The Vortex Fields.`Netherstorm
+Guess the Zone: This zone contains the Pools of Aggonar, the Void ridge, and the Path of Glory. This zone features four instances.`Hellfire peninsula
+Guess the Zone: The first time you will probably meet the Mag'har. A zeppelin has crashed here. This is the best place to gather fel iron.`Hellfire Peninsula
+Guess the Zone: You can visit the legendary Archmage, Khadgar, here. This zone features four instances.`Terokkar Forest`Terokkar
+Guess the Zone: The world pvp event in this zone is to capture two beacons and to flag the graveyard.`Zangarmarsh
+Guess the Zone: 'This zone is a grim spectacle of demonic magic run amok. Day and night, molten fel energy erupts from the land and lights the sky with bilious green flame'`Shadowmoon`Shadowmoon Valley
+Guess the Zone: Felguards, infernal's and other demonic beings ravages this zone. You can encounter the Shadow Councill here.`Shadowmoon`Shadowmoon valley
+Guess the Zone: Before TBC came out, this zone featured the populare stat potions, the ones which gives the player +25 to a stat. With the recent development with the guardian and battle elixirs, these potions is not used anymore.`Blasted Lands
+Guess the Zone: This zone was originally the Black Morass, but has changed name since then, due to the changes in the environment. This zone features a dragon which drops spheres, which in turn can be turned in for loot.`Blasted Lands
+Guess the Zone: This zone is located north of the Redridge Mountains, and features the two first 40man instances ever created by Blizzard.`Burning Steppes
+Guess the Zone: This zone features the Altar of Storms. This zone has plenty of dragon whelps and ogres. Herbers can find dreamfoil and black lotuses here.`Burning Steppes
+Guess the Zone: This zone features Karazhan, and is a relatively small zone. This place is known for its ogres that is perfect to grind, for both experience, and for runecoth.`Deadwind Pass
+Guess the Zone: The town in this zone is speculated to be Sunnyglade, but later renamed due to the events that has transpired in this zone. This zone features the Scourge, and a lot of worgens.`Duskwood
+Guess the Zone: This zone is 'famous' for the rumored 'Schythe of Elune'. The zone features an emerald dream portal, and is one of the four zones where the Emerald Dragons spawns in. (One in each of the four zones)`Duskwood
+Guess the Zone: This zone contains the Tower of Azora, and the Westbrook Garrison. The zone's inhabitants are mainly gnolls, bandits, and murlocs.`Elwynn Forest`Elwynn
+Guess the Zone: This zone contains the capital city of one of the Alliance races. The zone features no instances, but has a famous gnoll named.. Hogger!`Elwynn Forest`Elwynn
+Guess the Zone: This zone features the quest 'Hillary's necklace'. The zone's inhabitants are mostly orcs and gnolls. The alliance town in this region lies on the shores of Lake Everstill.`Redridge Mountains`Redridge
+Guess the Zone: The Tower of Ilgalar is here, though it is currently controlled by the evil Mage, Morganth. Gnolls and spiders are just a small part of the many local inhabitants of the zone.`Redridge Mountains`Redridge
+Guess the Zone: This zone was the primary center of the Gurubashi Empire, a long time ago. The zone is known to be a paradise for gankers. A lot of beasts live here.`Stranglethorn Vale`STV
+Where is Rexxar, in Azeroth?`Desolace
+Guess the Zone: This zone features the 'Tiny Emerald Whelpling' pet. There is only one instance in this zone. This zone is actually quite similar to Black Morass.`Swamp of Sorrows
+Guess the Zone: Murlocs, crocolisks, spiders and lost one's occupies this zone. You can find much blindweed and goldthorn here, and therefor is a populare spot to grind the mats for arcane elixirs.`Swamp of Sorrows
+Guess the Zone: The zone lies south of Darkshore, and is the ancestral homeland of the night elves. They still remain in control of several holdings throughout the zone, such as Maestra's Post, and the Shrine of Aessina.`Ashenvale
+Guess the Zone: The Furbolgs, and satyrs are some of the local inhabitants of this zone. It was a populare world pvp zone before the expansion came out. This zone also features an Emerald Dream portal.`Ashenvale
+Guess the Zone: Nagas, ghosts, and satyrs are some of the local inhabitants in this zone. The zone was named after the former kaldorei Queen, which is now the leader of the naga's.`Azshara
+Guess the Zone: One of the best zones for farming Dreamfoil and Mountain Silversage. This zone also features the Hydraxian Waterlords faction. The zone is also known to be one of best-looking zones in World of Warcraft.
+WOW_TRIVIA_ANSWERS1[543] = "Azshara"
+Guess the Zone: This zone is low on history due to being a out-of-the-way location, but the dranei capital city lies here. A quest chain named 'The Prophecy of Akida' in this zone is widely regarded to be one of the funniest quest chains in WoW.`Azuremyst`Azuremyst Isle`The Azuremyst Isle
+Guess the Zone: Several large kaldorei cities once stood in this zone. This zone has one instance, and is mostly about corrupted Druids. A quest chain in this zone wants you to hunt raptors all over the place becuase they stole some silver.`Barrens`The Barrens
+Guess the Zone: The zone has some well known area's, such as the Fray Island, the Stagnant Oasis, and the Fields of Giants. This zone also features a lot of 'hunting' quests.`Barrens`The Barrens
+Guess the Zone: This zone is filled with red glowing crystals. This place is also quite low on history, just like the Azuremyst Isle. The zone was formerly known as Silvergale.`Bloodmyst`Bloodmyst Isle`The bloodmyst Isle
+Guess the Zone: This zone has a micro-dungeon named 'The Vector Coil'. As the area suggest, The Vector Coil contains the vector coil of the dranei ship that crashed. An eredar here called Sionas, and is harvesting power from the coil itself.`Bloodmyst`Bloodmyst Isle`The bloodmyst Isle
+Guess the Zone: The night elfs controls this zone. The night elf sentinels patrols the road from Auberdine in this zone till Ashenvale to the south. A quest-chain here is to free the furbolgs from a satyr's corruption.`Darkshore
+Guess the Zone: The Twilight Hammer has plenty of people in this zone. The Cult of the Dark strand also operates here. An Old God is rumored to have fallen in the Master's Glaive area of this zone. Onu refers to it as a 'Old God of the earth'.`Darkshore
+Guess the Zone: This zone has been savaged by centaur's seaseless aggressions. The Kolkar, the Gelkis, the Magram, and the Maraudine centaurs fight each other as much as they do against the Horde and the Alliance of this zone.`Desolace
+Guess the Zone: The Burning Blade's in this zone increases the risk of a region-wide demonic infestation, due to all the demonic beings they have summoned. The naga presence in the northwest of this zone also causes concern.`Desolace
+Guess the Zone: This zone is named after Thrall's father, to honor him. The inhabitants of this zone is mostly harpies, makruras, quillboars, and tigers.`Durotar
+Guess the Zone: This place contains the stonemaul ogres. One of the famous characters in this zone is Jaina Proudmoore. The zone contains creatures such as nagas, turtles, crocolisks, and spiders.`Dustwallow marsh
+Guess the Zone: Sharks, dragonspawns, and raptors are some of the local inhabitants of this zone. This zone features a very popular pre-tbc instance, and the end boss of this instance has been 2manned.`Dustwallow marsh
+Guess the Zone: Lord Illidan Stormrage obtained the skull of gul'dan here. This place is known for its corruption, which were caused by the Burning Legion. The Shadow Councill has a base of operations in this zone.`Felwood
+Guess the Zone: This is the best zone to gather gromsblood in. You can also find lots of dreamfoil, and plaguebloom here. Some gold farmers farmed the angerclaw bears in this zone for money, pre-tbc due to their quick respawn.`Felwood
+Guess the Zone: This zone holds many ancient ruins. The zone is famous for its ancient night elf city, which is now a instance. The zone is also one of the four locations which contain an emerald portal.`Feralas
+Guess the Zone: Faeri dragons, and gnolls are two of the local inhabitants in this zone. The endgame guilds used to grind the raw meat of the Chimaeras in this zone in order to make the famous food, Dirge's Kickin' Chimaerok Chops.`Feralas
+Guess the Zone: This zone contains the old world tree, and is currently unaccessible without special means.`Mount Hyjal
+Guess the Zone: This zone is a haven for Druids and is the home of the Cenarion Circle. The conflict between the Alliance and the Horde is not tolerated by the protectors of this zone. This zone also features Omen during the Lunar Festival.`Moonglade
+Guess the Zone: This zone is known for its nature-loving tribe people. This zone features a huge variety of animals. The Venture Co and the dwarves has intruded into this zone.`Mulgore
+Guess the Zone: This zone contains the Bael'Dun Digsite, where dwarves scour the mountains for traces of their shrouded ancestry. Peacebloom and silverleaf is the local herbs around here. There is plenty of harpies in this zone.`Mulgore
+Guess the Zone: This zone contains two high-end instances and was the location of a server wide event, more commonly known as the AQ War Effort. This zone also features extremely many insects.`Silithus
+Guess the Zone: The wildlife here are mostly insects, snakes, and spiders. This zone has a world pvp event, and had many populare grinding places pre-tbc. The Cenarion Cirlce defends the local town here.`Silithus
+Guess the Zone: This zone has huge problems with 'The Venture Co', who is trying to harvest the local forest here for profit. The Alliance can get here via the Talondeep Path.`Stonetalon Mountains
+Guess the Zone: The inhabitants here are mostly harpies, goblins and fire elementals. You can mainly find copper veins here as a miner, with some occasional tin veins. One of the quests in this zone wants you to kill Besseleth, a huge spider.
+WOW_TRIVIA_ANSWERS1[567]= "Stonetalon Mountains";
+Guess the Zone: This zone contains one of the most liked mid level instances. This zone also contains a unaccessible location known as Uldum (very similar to Uldaman).`Tanaris
+Guess the Zone: Furbolgs, grells, and nightsabers are some of the local inhabitants. This place is a nightmare for miners and for the Horde, as it's a hard zone to reach. This place is also the starting zone for one of the Alliance races.`Teldrassil
+Guess the Zone: Dolanaar, and Starbreeze Village are some of the villages in this zone. You can find up to swiftthistle here as a herbalist, but not even one copper vein here as miner.`Teldrassil
+Guess the Zone: A area in this zone is just as dangerous as Stranglethorn Vale, in terms of ganking, if not even more. Both the Alliance and the Horde goes here. This zone contains silithids, water elementals, turtles and wyverns.`Thousand Needles
+Guess the Zone: Kobolds, earth elementals, carrion birds and wind serpents live here. The zone also features the Grimtotem clan. Tanaris lies north of this zone.`Thousand Needles
+Guess the Zone: 'The night elf army was pushed back to this location. Something here prevented the Qiraji from being able to take the land. I do not quite understand this word but i belive it to mean 'God Lands'.'`Un'Goro`Un'Goro Crater
+Guess the Zone: Dreamfoil, and mountain silersage can be gathered here, as a herbalist. The fire elementals in this region is a popular grinding place for fire essences. Stegodons, gorillas, and bloodpetals are some of the local inhabitants.`Un'Goro`Un'Goro Crater
+Guess the Zone: Both the Steamwheedle Cartel and the night elfs has established a base in this region. The zone is rich on thorium veins for miners. The zone has quite a wildlife aswell, with its blue dragons, bears, and owls.`Winterspring
+Guess the Zone: The Eye of Shadow was grinded quite often in this zone, before the expansion came. As Alliance you can obtain the 'Reins of the Winterspring Frostsaber' in this zone.`Winterspring
+What is the highest speed you can obtain with a flying mount?`492%`492
+The epic frost resistance gear for Warriors is called _________. Guilds usually create them for Naxxramas.`Icebane
+How many people can you enter Tempest Keep with?`25
+How many people can you enter Karazhan with?`10`ten
+The famous '______ on a stick' is widely known by nearly everyone in World of Warcaft.`Carrot
+The rare trinket that is obtainable by doing quests with the Netherwing faction, is called '________ Whip'.`Skybreaker
+Where can you find Lucifron?`Molten Core`MC
+Where can you find Magmadar?`Molten Core`MC
+Where can you find Gehennas?`Molten Core`MC
+Where is 'Edge of Madness'?`Zul'Gurub`ZG`Zul Gurub
+Where can you find Shazzrah?`Molten Core`MC
+Where can you find Golemagg the Incinerator?`Molten Core`MC
+Where can you find Sulfuron Harbringer?`Molten Core`MC
+Where can you find Majordomo Executus?`Molten Core`MC
+Where can you find the Old God's Lieutenant, Ragnaros?`Molten Core`MC
+Where can you find Bloodlord Mandokir?`Zul'Gurub`ZG`Zul Gurub
+Where can you find Gahz'ranka?`Zul'Gurub`ZG`Zul Gurub
+Where can you find Thekal?`Zul'Gurub`ZG`Zul Gurub
+Where can you find Venoxis?`Zul'Gurub`ZG`Zul Gurub
+Where can you find Arlokk?`Zul'Gurub`ZG`Zul Gurub
+Where can you find Jeklik?`Zul'Gurub`ZG`Zul Gurub
+Where can you find Mar'li?`Zul'Gurub`ZG`Zul Gurub
+Where can you find Jin'do the Hexxer?`Zul'Gurub`ZG`Zul Gurub
+Where can you find Hakkar the Soulflayer?`Zul'Gurub`ZG`Zul Gurub
+WOW_TRIVIA_QUESTIONS[601] = "Where can you find Gri'lek?"`Zul'Gurub`ZG`Zul Gurub
+WOW_TRIVIA_QUESTIONS[602] = "Where can you find Hazza'rah?"`Zul'Gurub`ZG`Zul Gurub
+WOW_TRIVIA_QUESTIONS[603] = "Where can you find Wushoolay?"`Zul'Gurub`ZG`Zul Gurub
+Name the infamous troll player which leveled to 70 without using weapons or armors.`Gutrot
+Where can you find Razorgore the Untamed?`Blackwing Lair`BWL
+Where can you find Vaelastrasz the Corrupt?`Blackwing Lair`BWL
+Where can you find Firemaw?`Blackwing Lair`BWL
+Where can you find Ebonroc?`Blackwing Lair`BWL
+Where can you find Flamegor?`Blackwing Lair`BWL
+Where can you find Nefarian?`Blackwing Lair`BWL
+Where can you find Master Elemental Shaper Krixix?`Blackwing Lair`BWL
+In what zone lies The Ruins of Ahn'Qiraj?`Silithus
+In what zone lies The Temple of Ahn'Qiraj?`Silithus
+In what zone lies Blackwing Lair?`Searing Gorge`Burning steppes
+Where can you find The Prophet Skeram?`The temple of Ahn'Qiraj`AQ40`AQ 40
+Where can you find the 'Bug Family' (Kri, Yauj, Vem)?
+WOW_TRIVIA_ANSWERS1[616]= "The temple of Ahn'Qiraj";`AQ40`AQ 40
+Where can you find Battleguard Sartura?
+WOW_TRIVIA_ANSWERS1[617]= "The temple of Ahn'Qiraj";`AQ40`AQ 40
+Where can you find Fankriss the Unyielding?
+WOW_TRIVIA_ANSWERS1[618]= "The temple of Ahn'Qiraj";`AQ40`AQ 40
+Where can you find Viscidus?
+WOW_TRIVIA_ANSWERS1[619]= "The temple of Ahn'Qiraj";`AQ40`AQ 40
+Where can you find Princess Huhuran?
+WOW_TRIVIA_ANSWERS1[620]= "The temple of Ahn'Qiraj";`AQ40`AQ 40
+Where can you find the Twin Emperors?
+WOW_TRIVIA_ANSWERS1[621]= "The temple of Ahn'Qiraj";`AQ40`AQ 40
+Who is the brother of Vek'nilash?`Vek'lor
+Who is the brother of Vek'lor?`Vek'nilash
+Where can you find Ouro?
+WOW_TRIVIA_ANSWERS1[624]= "The temple of Ahn'Qiraj";`AQ40`AQ 40
+Where can you find C'thun?
+WOW_TRIVIA_ANSWERS1[625]= "The temple of Ahn'Qiraj";`AQ40`AQ 40
+The war between the Qiraji and the rest of kalimdor was called 'The war of the ______ ______'.`Shifting sands
+Where can you find Ayamiss the Hunter?`Ruins of Ahn'Qiraj`AQ20`AQ 20
+Where can you find Buru the Gorger?`Ruins of Ahn'Qiraj`AQ20`AQ 20
+Where can you find General Rajaxx?`Ruins of Ahn'Qiraj`AQ20`AQ 20
+Where can you find Kurinaxx?`Ruins of Ahn'Qiraj`AQ20`AQ 20
+Where can you find Moam?`Ruins of Ahn'Qiraj`AQ20`AQ 20
+Where can you find Ossirian the Unscarred?`Ruins of Ahn'Qiraj`AQ20`AQ 20
+In what content patch was Ahn'Qiraj released?`1.9
+Northrend will certainly feature 'The Venture Co'. (True/False)?`true
+In what content patch was Naxxramas released?`1.11
+Where can you find Anub'Rekhan?`Naxx`Naxxramas
+Where can you find Grand Widow Faerlina?`Naxx`Naxxramas
+Where can you find Mr.Bigglesworth?`Naxx`Naxxramas
+Where can you find Maexxna?`Naxx`Naxxramas
+Where can you find Noth?`Naxx`Naxxramas
+Where can you find Heigan?`Naxx`Naxxramas
+Where can you find Loatheb?`Naxx`Naxxramas
+Where can you find Razuvious?`Naxx`Naxxramas
+Where can you find Gothik?`Naxx`Naxxramas
+Where can you find The Four Horsemen?`Naxx`Naxxramas
+Where can you find Patchwerk?`Naxx`Naxxramas
+Where can you find Grobbulus?`Naxx`Naxxramas
+Where can you find Gluth?`Naxx`Naxxramas
+Where can you find Thaddius?`Naxx`Naxxramas
+Where can you find Sapphiron?`Naxx`Naxxramas
+Where can you find Kel'Thuzad?`Naxx`Naxxramas
+Who is Highlord Mograine's son?`Renault`Renault Mograine
+You can find agents of Argent Dawn in Outland. (True/False)?`False
+What is the firstname of the Scarlet Crusade's Ambassador, which was sent to discuss the Scourge Invasion?`Marjhan
+How many Outland factions exists at the moment?`15`fifteen
+How many Azeroth factions exists at the moment?`29`twentynine
+The night elves were once called the ________.`Kaldorei
+Some of the kaldorei's were transformed into naga's during the accident with the ____________________`well of eternity
+The Well of Eternity left a permanent storm known as 'The __________'.`Maelstrom
+The makrura is rumored to have a city named _______.`Mak'aru
+The  _______ speaks in nerglish and are a race of humanoid lobsters who are constantly in war with the naga.`Makrura
+It is rumored that ______ are the offsprings of gronns.`Ogre`Ogres
+What is the name of the radio who produces shows such as 'EPIC', 'Blue plz', 'vendor trash', and others?`wcradio`wowradio
+______ did the world first on Azgalor the pitlord.`Curse
+What is the name of the guild which did the world first on Nefarian? (hint: Something that happens quite often in guilds is the guildname of this guild)`Drama
+WOW_TRIVIA_QUESTIONS[666] = "Death & Taxes did the world first on _______ in Karazhan.";`Nightbane
+Ascent did the world first on __________.`Ragnaros
+What guild did the world first on Kel'Thuzad?`Nihilum
+What guild did the world first on The Four Horsemen?`Deathandtaxes
+WOW_TRIVIA_ANSWERS2[669] = "Death & Taxes";
+WOW_TRIVIA_ANSWERS3[669] = "Death&Taxes";
+If you go where you are not supposed to (like, Mount Hyjal, which is not finished) you get a debuff called _______________ which teleports you away.`no mans land`no man's land
+There is ______ holiday events in world of warcraft.`ten`10
+What is the name of the player which got to 1-60 in 4 days and 20 hours before TBC came, and made a guide about it?`Joana
+What is the name of the player who is famous for his leveling guides? (from 20-60 on both factions)`Jame
+How many characters can you have per realm?`ten`10
+The homeland of the goblins is called what?`Kezan
+The goblin's capital city is called?`Undermine`The Undermine
+How many troll empires has been known to exists?`three`3
+How many troll tribes is known to exists?`18`eighteen
+WOW_TRIVIA_QUESTIONS[679] = "Where can you find Attunmen & Midnight?";`Karazhan`KZ`Kara
+Where can you find Maiden of Virtue?`Karazhan`KZ`Kara
+Where can you find Curator?`Karazhan`KZ`Kara
+Where can you find Terestian Illhoof?`Karazhan`KZ`Kara
+Where can you find the shade of Aran?`Karazhan`KZ`Kara
+Where can you find Netherspite?`Karazhan`KZ`Kara
+Where can you find Nightbane?`Karazhan`KZ`Kara
+Where can you find Hyakiss the Lurker?`Karazhan`KZ`Kara
+Where can you find Rokad the Ravager?`Karazhan`KZ`Kara
+Where can you find Shadikith the Glider?`Karazhan`KZ`Kara
+Where can you find Hydross?`Serpentshrine Cavern`SSC
+Where can you find 'The Lurker Below'?`Serpentshrine Cavern`SSC
+Where can you find Leotheras?`Serpentshrine Cavern`SSC
+Where can you find Karathress?`Serpentshrine Cavern`SSC
+Where can you find Morogrim Tidewalker?`Serpentshrine Cavern`SSC
+Where can you find Vashj?`Serpentshrine Cavern`SSC
+When does the Harvest Festival start, in September?`September 24th`24th september`24th`24
+When does the Feast of Winter Veil start, in December?`December 22th`22th December`22th`22
+When does the Lunar Festival start, in February?`February 16th`16th February`16th`16
+When does 'Love is in the Air' start, in February?`February 11th`11th February`11th`11
+When does Noblegarden start, in April?`April 15th`15th April`15th`15
+When does the Children's Week start, in May?`May 22th`22th May`22th`22
+When does the Midsummer Fire Festival start, in June?`June 21th`21th June`21th`21
+Where can you find Rage Winterchill?`Battle for Mount Hyjal`Hyjal`Hyjal Summit
+Where can you find Anetheron?`Battle for Mount Hyjal`Hyjal`Hyjal Summit
+Where can you find Kaz'rogal?`Battle for Mount Hyjal`Hyjal`Hyjal Summit
+Where can you find Azgalor?`Battle for Mount Hyjal`Hyjal`Hyjal Summit
+Where can you find Archimonde?`Battle for Mount Hyjal
+WOW_TRIVIA_ANSWERS2[706]= "Hyjal";`Hyjal Summit
+Where can you find Al'ar?`The Eye
+WOW_TRIVIA_ANSWERS2[707]= "Tempest keep";
+Where can you find Void Reaver?`The Eye
+WOW_TRIVIA_ANSWERS2[708]= "Tempest keep";
+Where can you find Solarian?`The Eye
+WOW_TRIVIA_ANSWERS2[709]= "Tempest keep";
+Where can you find Kael'thas Sundstrider?`The Eye
+WOW_TRIVIA_ANSWERS2[710]= "Tempest keep";
+Where can you find Naj'entus?
+WOW_TRIVIA_ANSWERS1[711] = "Black Temple"`BT`Black Temple
+Where can you find Supremus?
+WOW_TRIVIA_ANSWERS1[712] = "Black Temple"`BT`Black Temple
+Where can you find the Shade of Akama?
+WOW_TRIVIA_ANSWERS1[713] = "Black Temple"`BT`Black Temple
+Where can you find Teron Gorefiend?
+WOW_TRIVIA_ANSWERS1[714] = "Black Temple"`BT`Black Temple
+Where can you find Gurtogg Bloodboil?
+WOW_TRIVIA_ANSWERS1[715] = "Black Temple"`BT`Black Temple
+Where can you find the Reqliquary of Souls?
+WOW_TRIVIA_ANSWERS1[716] = "Black Temple"`BT`Black Temple
+Where can you find Mother Shahraz?
+WOW_TRIVIA_ANSWERS1[717] = "Black Temple"`BT`Black Temple
+Where can you find the Illidari Council?
+WOW_TRIVIA_ANSWERS1[718] = "Black Temple"`BT`Black Temple
+Where can you find Illidan Stormrage?
+WOW_TRIVIA_ANSWERS1[719] = "Black Temple"`BT`Black Temple
+Guess the Zone: This zone has lava elementals, spiders, and incendosaurs as its inhabitants. One of the quests in this zone is called 'What the Flux?'.`Searing Gorge
+Guess the Zone: This zone has air elementals, crabs, blood elves, naga, and furbolgs as some of its inhabitants. Arcane storms strikes this peaceful zone, which lies west of darkshore.`Azuremyst Isle`Azuremyst
+Guess the Zone: 'Here, young orcs, tauren, and trolls study Shamanism, Hunting, and the Ways of the Warrior'.`Durotar
+Guess the Zone: The zone has the famous Serpent Lake, where four instances lies. The zone is also famous for one of its inhabitants, the Sporelings.`Zangarmarsh
+Guess the Zone: This zone contains all kinds of elementals, from water to fire, from earth to air. When players try to explain this place, they often say its quite similar to Mulgore.`Nagrand
+Guess the Zone: The zone is known for its local inhabitants, the wild talbuks and clefthoofs especially. Alot of ogres and gronns also live here.`Nagrand
+Guess the Zone: This zone is known to be the 'Feralas of the Outland'. The local inhabitants in this zone are mainly the blood elves and the arrakoa. A NPC in this zone named Griftah is a well known scammer.`Terokkar forest`Terokkar
+Guess the Zone: The Mok'Nathals live in this zone. The inhabitants here are mostly ogres, and etherals. The formula for +40 spell damage drops in this zone. `Blades Edge Mountains`Blade's Edge Mountains
+This zone has plenty of chimaeras, and ethereals as its inhabitants. There is one raid instance in this zone. You can find Rexxar in the Horde town of this place.`Blades Edge Mountains`Blade's Edge Mountains
+When does Hallow's End start, in october?`18`eighteenth`18th
+WOW_TRIVIA_QUESTIONS[730] = "Where can you find Renataki?"`Zul'Gurub`ZG`Zul Gurub
+The trolls in Zul'Aman are obviusly from the Amani empire, right? (True/False)?`True
+What is Cenarius?`A demigod`Demigod`A demi-god
+Who sells Soap on a Rope, in Shattrath?`Griftah
+What foe will you face the most in the expansion? (ex. Amani Empire)
+WOW_TRIVIA_ANSWERS1[734] = "Scourge"`the Scourge
+How many new zones is comming with the expansion?`10`Ten
+Guess the Zone: This zone will be revamped in patch 2.3, and will feature the new goblin town, Mudsprocket. 'The Missing Diplomat' quest-chain has been countinued aswell. A total of 60 new quests has been added to the zone.`Dustwallow Marsh
+In patch 2.3 the dragons outside Onyxia's lair will no longer be elite. (True/False)?`True
+Sholazar Basin will be one of the largest zones in Northrend.`false
+The Borean Tundra and the ____________ will probably be the largest zones in Northrend.`The Dragonblight`Dragonblight
+Lake Wintergrasp will feature a lot of ____________, because of the pvp-only uniqueness the zone has. (hint: Annother name of 'Outdoor PvP')`world pvp
+The Borean Tundra will feature the Riplash Ruins, which lies near the end of the zone to the south. It has nerubian architecture but is not occupied by them anymore. What group is currently inhabiting it?`The naga`The nagas`naga`nagas
+What is the naga's also known as? (like, Archimonde the Defiler)`The terror of the tides`Terror of the tides`The naga, Terror of the Tides
+____________ watches over the Dragonblight together with his dragonflight, to make sure that the remains are undisturbed.`Malygos`Malygos the Spell-Weaver`Malygos the Spell Weaver
+The Grizzly Hills in Northrend has how many furbolg tribes?`4`four
+What is the furbolg capital in The Grizzly Hills called?`Grizzlemaw`The Grizzlemaw
+How many furbolg tribes are known to exist?`14`fourteen
+What new proffesion will be introduced in the expansion?`Inscription
+What heroic class will be the first released?`Death knight`The Death Kngiht
+What is the name of the undead settlement in Howling Fjord?`New Agamand
+The taunka's were thought to be lost untill they were discovered by ___________________ and his orcs when they landed in Northrend. (the full name)`Garrosh Hellscream
+The taunka are an ancient offshot of the _________.`Tauren`Taurens
+The tuskarrs are a humanoid _______ race who live in Northrend.`Walrus
+A race of humanoid spiders, is also known as the __________.`Nerubians
+_________ was the former king of Azjol-Nerub. He now leads the undead nerubians.`Anub'Arak
+The 'Knights of the Silver Hand' will make their return in the expansion. They are lead by the previously exiled Highlord ______ Fordring, which you can encounter ingame in the Eastern Plaguelands.`Tirion
+In what zone lies Utgarde Keep?`Howling Fjord
+The inhabitants of Utgarde Keep is known as the _______ and are formidable warriors. They are bent on proving their strength to the Lich King, who will only raise the most worthy of their warriors to serve him beyond the grave.`Vrykuls`Vrykul's
+It is expected that atleast one instance in the Utgarde Keep will feature some _________.`Undeads`Scourge
+Alliance can expect to finally see ______ Bronzebeard, the famous explorer. He will be critical in order to uncover the real truth of Azeroth.`Brann
+The dwarves will discover the origin of life on Azeroth in the expansion. (True/False)?`true
+The second instance in Utgarde Keep is called 'Utgarde _______', and is planned to be a level 80 5-man instance.`Pinnacle
+Utgarde Keep will have a raiding instance that is similar to AQ in size. In here you will face the Utgarde Keep Champion, Gutrot Keleseth, as the last boss. He will fight with his fists just like the real Gutrot did, and wear no armor. (True/False)?`False
+Utgarde Keep will be quite similar to the Hellfire Citadel. (True/False)?`True
+The nexus has two 5man instances, and one 25man raid instance. In the raid instance you will face Malygos, also known as The Spell-Weaver. (True/False)?`true
+The nexus is located in __________, the home of Malygos.`Coldarra
+A scroll that was found in a Northrend ruin mentioned a spell that can remove the ________ from a huge number of undead creatures at the same time, putting the undead creatures permanently to rest.`Undeath
+A 5man instance in The Nexus is called '____ Caverns'.`ice
+The 25man raid instance in ____________ will be similar to Onyxia and Gruul. Here you will battle Malygos, the Dragon Aspect of Magic.`The Nexus
+Where is Ulduar located, in Northrend?`The Storm Peaks
+Ulduar is a titan ____.`City
+It is rumored that it's probably in ________ that dwarves will learn the truth about Azeroth. In short, very much lore in it.`Ulduar
+It is rumored that ________ has a great titan city, just like Ulduar.`Uldum
+One of Azjol'Nerubs many mystery's is the __________ Ones.`faceless
+It is not sure yet if ____________ will be killable or not.`Lich King`The Lich King
+The seat of power of the Scourge, is the Frozen Throne. The Frozen Throne lies in the ________________.`Icecrown glacier`The Icecrown glacier
+____________ is the new leader of Dalaran in the expansion.`Rhonin
+Dalaran has been 'transported' to Northend and is a ________ town, even to the Horde.`neutral
+________ in Northrend, will have one or two instances, just like Stormwind and Orgrimmar.`Dalaran
+_________ Runeweaver is the current leader of Dalaran.`Ansirem
+____________ will be retuned into a level 80 instance with appropiate loot, and be the entry-raid instance in the expansion. The attunement will be removed aswell.`Naxxramas
+Caverns of Time: Culling of _______  is the new instance in CoT that will be added in the expansion. It will be a level 80 5-man instance that will be centered around helping Prince Arthas purge the plague infected populace of this place.`Stratholme
+What is the name of the capital city that the ice trolls, also known as the Zul'Drak empire, has in Northrend?`Gundrak
+The Bloodmar is a community of magnataurs. They are currently building their numbers and gathering resources in preperation for war on the other races close to their border. They are led by the mighty Grom'Thar the _______.`Thunderbringer
+The Drak'Tharon Keep is a fort where Arthas stayed while searching for ______________, and is located in the Grizly Hills.`Frostmourne
+The Drak'Tharon Keep originally belonged to the _________ trolls, but the Scourge drove them out and took their possesions, aswell as the fort. The Scourge now have a garrison here, which is holding the mountain passes.`Drakkari
+The ____________ Keep is easily defended. It is said that the small group of scourge that is garrisoned there can easily hold the keep against forces ten times its size, especially since they dont need nourishment, like food or water.`Drak'Tharon
+The Death Knight will just be the first of several upcomming ______ class. The current plan is to release one  _____ class per expansion pack.`hero
+The Death Knight will start at a high level, around level __-60 is the current plan.`55
+The Death Knights cant use shields. (True/False)?`true
+The Death Knight uses ______ as their source of 'mana'. The _______ on their runeblades have charges, so they dont have unlimited mana precisely. Once thouse charges are out, they need to regenerate in order to get their abilities and spells back.`runes
+Proffesions will have _____ skill points as limit in the expansion.`450`four hundred fifty
+The riding skills will be _______ skill points as limit in the expansion.`375 -- Trick question
+In the expansion you are able to customize your characters with new hair styles and _______. Characters wont be able to have a 'plastic surgery', though. (hint: This can be 'triggered' by writing an emote)`dances
+Blizzard hopes to bring the pvp to annother level with the new zone in the expansion, Lake __________. It will be the only-pvp zone in wow.`Wintergrasp
+The expansion will introduce _____ weapons into the game, and atleast one new battleground.`siege
+The art of Outland is going to return to the 'classical' Warcraft, and that is, ______ fantasy. The Outland art was high fantasy.`gothic
+What is 'the roof of the world' refering to?`Northrend
+In which patch was the voice chat implemented?`2.2
+What is the name of the tuskar's capital city?`Kaskala
+What is the Horde fortress called in Borean Tundra? (hint: Gromm Hellscream's clan)`Warsong Hold
+The tuskarr have allied themselves with the Horde expedition, both because of their cultural similarities (__________ particulary) and to battle the naga who assaults them from the south.`Shamanism
+The tuskarr's considers it a mark of _______ to give help to other tuskarr villages.`honor
+The _____________ received its name because of the wind which races in from the sea on all three sides, producing a constant howl, like a maddened beast seeking its prey.`Howling Fjord`The Howling Fjord
+Guess the Zone: Both the Horde and the Alliance are steadily assaulted in this zone, by the vrykuls. The ironforge prospectors in this zone has discovered a new race of iron dwarves which may hint to their own ancient origin.`Howling Fjord`The Howling Fjord
+Guess the Zone: Sylvanas and the Forsaken in this zone has engineered a new plague, and is ready to strike at the Lich King. They have built a new town in this zone, named 'New Agamand'. It's there the testing beings.`Howling Fjord`The Howling Fjord
+Guess the Zone: This zone is located at the far western edge of Northrend. The naga, and the Scourge are two of the local inhabitants. The Tuskarr are the dominant presence in this zone, and their capital city Kaskala is here aswell.`Borean Tundra`The Borean Tundra
+Guess the Zone: The Drakkari Trolls, and the Blue Dragonflight occupies this zone, together with many other species. This zone is flat, wide, and cold. A solid sheet of ice covers the zone.`Borean Tundra`The Borean Tundra
+Guess the Zone: This zone is perhaps the softest of all of the zones in Northrend. The trolls is only a minor nuisance and the Scourge comes here rarely. The Alliance Keep in this zone is called Justice Keep and the Horde town is called Warsong Hold.`Borean Tundra`The Borean Tundra
+Guess the Zone: The humans of this zone was the first of all to fall victim to the plague. This zone is also a graveyard for dragons. Old dragon's come here in their final hours or days, to rest in peace.`The Dragonblight
+Guess the Zone: Malygos and his Blue Dragonflight guards this zone fiercly. Undead animals also roams this land, attacking any living thing in sight. Travelers should try their best to avoid them.`The Dragonblight
+Guess the Zone: The dragons of this zone, in the Wyrmrest temple, communicate regulary with their kin in Coldarra. This zone also features the Tauren outpost of Icemist village, which has been known for helping strangers in need.`The Dragonblight
+Guess the Zone: The survivors of the fall of Azjol-Nerub has fled to the Sundered Monolith, a nerubian fortress in this zone. No one knows what their role will be in Northrend.`The Dragonblight
+Guess the Zone: This zone is the home of the trolls of the Drakkari empire. Their capital city Gundrak lies is here, aswell. Most people avoids this zone, for good reasons.`Zul'Drak
+Guess the Zone: This zone has excellent wildlife compared to most of the other zones in Northrend. The Scourge has so far not penetrated this zone to any degree, but a war between the Drakkari trolls here and the Scourge might be inevitable.`Zul'Drak
+The leader of the drakkari tribes in Zul'Drak is called 'Frost King _____'.`Malakk
+Guess the Zone: It's in this zone here the grizzlemaw furbolg made their capital city, Grizzlemaw. The grizzlemaw furbolgs claims they where the first people in these hills, just like the Drakkari.`Grizzly Hills`The Grizzly Hills
+Guess the Zone: The dwarven settlement, Thor Modan, can be found in this zone. It is the ancient home of the iron dwarves. The furbolgs in this zone attacks this place frequently, because they think of the dwarves as graverobbers and trespassers.`Grizzly Hills`The Grizzly Hills
+Guess the Zone: Drak'Tharon keep lies here. It's origin is from the Drakkari, and is very close to the border of Zul'Drak. The Scourge now occupies this keep, and can easily defend it from intruders.`Grizzly Hills`The Grizzly Hills
+Guess the Zone: The furbolgs of this zone is not hostile unless someone enters their territory. The furbolgs are suprisingly friendly to travelers, aslong as they dont make any claims on anything in the hills. They are quite simple people actually.`The Grizzly Hills
+Guess the Zone: The wendigo and the sasquatch are some of the local inhabitants in the zone. This zone is full of life, and has many animals, such as wolves, and foxes, and even snow owl's. The Drakkari hunts only rarely in this zone.`Grizzly Hills`The Grizzly Hills
+Guess the Zone: This zone has a low Scourge presence, only enough to block the northwest corner of the zone. The zone is described as 'It's not a easy land by any stretch, but its handsome and fierce, and full of life'.`Grizzly Hills`The Grizzly Hills
+Guess the Zone: The Venture Co is deforesting the land in this zone, which is located in Northrend. The furbolgs in this zone probably has some quests regarding them, since they are a shamanistic people. This zone has many animals.`The Grizzly Hills`Grizzly Hills
+Azjol-Nerub is located underground. (True/False)?`true
+Azjol-Nerub is also known as the ________ Kingdom.`Spider
+Guess the Zone: There is a small dwarven camp named Doorward, inside this zone. Some years ago Arthas attacked it, on his way to the Lich King. Most of the people there were not mortally wounded though. This zone is completly filled with the Scourge.`Azjol-nerub
+Guess the Zone: Brann Bronzebeard claims it might be possible for an Alliance with the surviving nerubians if one is willing to help them clear out the Scourge from their empire. This zone is also knwon as 'The Spider Kingdom'.`Azjol-Nerub
+Guess the Zone: It is said that this zone contains an Old God, and that the mysterius Forgotten Ones and the Faceless Ones and are his servants. Baelgun Flamebeard, the new leader of Doorward, fiercly belives in this and vows to stop them.`Azjol-Nerub
+Just like Un'Goro Crater, ___________ in Northrend is an anomoly.`Sholazar Basin
+Guess the Zone: This zone is a tropical jungle in the midst of Northrend. This zone is tropical, and no one knows why. This zone is quite small compared to other zones in Northrend. It's about the same size as the Crystalsong Forest.`Sholazar Basin
+Guess the Zone: This zone lies northwest of Borean Tundra. The zone contains very hot geysers and steam vents. So hot, that if you put your hands in one of them, your hands flesh would be incinerated instantly. The wildlife here is rich.`Sholazar Basin
+Guess the Zone: A high elf scholar belived that the Titans used the ________________ as a testing ground. If that's true, then some of their experiments might remain. The zone would be a tresure trove of knowledge and power if that is the case.`Sholazar Basin
+Guess the Zone: This zone is located in the north-east of Northrend. The mysterius storm giants live in the famous Titan city of Ulduar in this zone. The winds here are extremely violent and dangerous.`The Storm Peaks`Storm Peaks
+Guess the Zone: It was here that Aegywynn, the Guardian of Tirisfal battled Sargeras, the lord of the Burning legion. The magnataurs and the wendigos are two of the local inhabitants in this zone.`The Storm Peaks`Storm Peaks
+Guess the Zone: The Titans used to live here. They even created a city where they worked on their experiments. Many caves exists in this zone, and it is rumored that the titans themselves created them.`The Storm Peaks`Storm Peaks
+Guess the Zone: This zone contains the largest glacier on Azeroth, and became infamous when Kil'jaeden hurled a certain being into the glacier.`Icecrown Glacier`The Icecrown Glacier
+Guess the Zone: The Scarlet Crusade succeeded in approaching the stronghold in this zone once, but was in the end repelled by the Scourge. They lost countless men and women. In the end they only became scourge themselves, most probably.`Icecrown Glacier`The Icecrown Glacier
+Guess the Zone: This zone has the largest scourge presence of them all, as this zone is the heart of the Scourge. Countless people have tried to destroy it from here, but were only added to their ranks in the end.`Icecrown Glacier`The Icecrown Glacier
+Name the zone which is the only zone so far to be completly devoted to PvP, and nothing else.`Lake Wintergrasp
+Guess the Zone: This zone is basicly a large frozen lake. Sometimes, local taurens and taunka's cut holes in the lake to spear-fish. It is very dangerous to fall down in the lake, as you will be rendered unconscious by the cold within 3-10 minutes.`Lake Wintergrasp
+Dalaran has ties to the Old Horde. (True/False)?`false
+WOW_TRIVIA_QUESTIONS[840] = "You cant use the flying mount before you are around level 75~ in __________.";`Northrend
+The neutral town in Northrend is called __________. It was teleported to Northrend because of Malygos and and his war against magic users.`Dalaran
+___________ has moved to the new Forsaken town in Northrend, New Agamand. Its in New Agamand the testing of the new plague will begin.`Sylvanas
+In what patch will we see Zul'Aman?`2.3
+The blue dragonkin's in _________ can now drop an Azure Whelp, a blue dragon pet.`Azshara
+In the upcomming patch, quest givers availible with daily quests will now have a ______ exclamation point instead of a yellow one.`blue
+In the upcomming patch, the Sporregar faction will sell a ________ pet at exalted.`sporebat
+In the upcomming patch, how much vendor discount does exalted give, in percent?`20%`twenty percent
+In the upcomming patch, the Alliance Brigadier Generals and the Horde Warbringers will give out ___________ daily quests.`battleground`bg
+In the upcomming patch, __________________ will feature a major change. The Commanders and Lieutenants has left this battleground, in search for new battle opportunities. Also, the elite tag on most of the NPC's has been removed.`The Alterac Valley`Alterac Valley`AV
+In the upcomming patch, ____________ paladins will get seriusly revamped.`Retribution`ret
+In the upcomming patch, the dressing room will feature a significant change. You can now see how you would look with items from __________.`receipes
+In the upcomming patch, engineers can create flying machines to have as flying mounts. (True/False)?`true
+In the upcomming patch, you can catch a fishing ________ which teaches you how to 'track fishing nodes' via fishing.`journal
+In the upcomming patch, all old world dungeons have had their loot revisited. One change in that all boss loot will now be of _________ quaility.`superior
+In the upcomming patch, the elite mobs outside the instances in _________ has been changed to non-elite. The trolls outside ZF will become non-elites, for example.`Azeroth
+In the upcommming patch, the heroic keys has been changed from revered to __________ as requirement before you can buy.`honored
+In the upcomming patch, a lot of the old world's dungeons has been changed. They have also made the instances narrower in level ranges. (True/False)?`true
+In the upcomming patch, you can get daily quests for fishing. (True/False)?`false
+In the upcomming patch, you can get ________________ for heroic and non-heroic dungeons in Outland.`daily quests
+In the upcomming patch, the ___________ has received some upgrades.`Auction House`AH
+-- Naxxrammas
+Naxxrammas was once an ancient ________ ziggurat, before it was pulled free from the ground by agents of the Lich King. It served as Kel'Thuzad's base of operations as he spread the plague. It's the home of Kel'Thuzad.`nerubian
+What is the name of the legendary caster staff, in Naxxramas?`Atiesh, Greatstaff of the Guardian`Atiesh
+Kel'Thuzad was formerly a sorcerer of ________.`Dalaran
+No one have yet entered __________ and lived to tell the tale. (hint: The Dread Citadel)`Naxxrammas`Naxx
+To enter Naxxramas you need to go into an open _________ in the middle of Plaguewood, which lies in the Eastern Plaguelands. From there you teleport yourself to Naxxramas, by standing on the main floor.`ziggurat
+Naxxramas will be retuned for level 80. (True/False)?`true
+Naxxramas has how many wings?`4`four`four wings`4 wings
+Who is the last boss of the Spider Wing in Naxxramas?`Maexxna
+Who is the last boss of the Plague Wing in Naxxramas?`Loatheb
+What is the last bosses of the Deathknight wing called, in Naxxramas?`The Four Horsemen
+Who is the last boss of the Abomination Wing in Naxxramas?`Thaddius
+There is a night elf highborne inside Naxxramas, called _________ Tarsis Kir-Moldir.`Archmage
+What is the cat inside Naxxramas called? if you kill it, Kel'Thuzad will curse you and you're raid.`Bigglesworth`Mr. Bigglesworth
+Players will need resistance in every element in order to complete Naxxramas. (True/False)?`false -- You dont _need_ nature resistance, or fire resistance (not sure about fire though) and perhaps arcane
+You need to clear every wing before you can enter ________ Lair, in Naxxramas.`Frostwyrm
+What dungeon tier drops in Naxxramas?`Tier 3
+What can you find on the walls of each boss chamber and varius other places, in Naxxramas?`Frozen Runes`Frozen Rune's
+Defrosting a frozen rune in Naxxramas with 'Word of _______' yields around 3 to 6 tradeable frozen runes. They can be used as a Greater Frost Protection Potion, or to craft epic frost resistance gear.`Thawing
+You dont generally use the frozen rune's from Naxxramas, as it is considered too expensive. Instead, most guilds use them to create the epic _____ resistance gear for classes, which is needed for Sapphiron in Naxxramas.`frost
+The epic frost resistance collection for Rogues is called _______. Guilds usually create them for Naxxramas.`polar
+The epic frost resistance collection for Hunters is called ____________. Guilds usually create them for Naxxramas.`Icy Scale
+The epic frost resistance collection for Mages, Priests, Warlocks is called __________. Guilds usually create them for Naxxramas.`Glacial
+What boss is considered to be the easiest, in Naxxramas?`Instructor Razuvious`Razuvious
+What boss in Naxxramas is considered a very hard 'gear check'?`Patchwerk
+What boss is considered to be the second hardest in Naxxramas?`The Four Horsemen
+What boss is considered to be the hardest of all in Naxxramas?`Kel'Thuzad
+In what instance except Naxxramas, can Kel'Thuzad be found?`Escape from Durnholde Keep`Durnholde`Escape from Durnholde`Old hillsbrad`Old hillsbrad foothills
+In order to fight Sapphiron, you need to ring a bell inside Naxxramas. (True/False)?`false
+What resistance do you need 150-200 of, in order to kill Sapphiron in Naxxramas? (atleast it was so, pre-bc)`frost
+It is likely that the Ashbringer will be moved from Naxxramas till a instance in Utgarde Keep. (True/False)?`true -- Tirion Fordring has a quest in Northrend regarding finding The Ashbringer.
+What is the name of the boss which is considered 'free loot' by many people?`Grobbulus
+_____________ in Naxxramas you need to kite, in order to defeat him. He is known to get bugged sometimes.`Anub'Rekhan
+What is the mobs that spawns during the Anub'Rekhan fight called? (hint: the huge spiders, which you need to offtank and kill before you can countinue to DPS Anub'Rekhan)`Crypt Guards`Crypt Guard
+What raiding instance is considered to be the 'best' ever created by Blizzard, atleast of the 40man instances?`Naxxramas`Naxx
+What boss in Naxxramas casts Locust Swarm, the deadly 1200 dmg / 2sec dot which the tank must avoid at any cost?`Anub'Rekhan
+What boss in Naxxramas can create Corpse Scarabs from the remains of dead Crypt Guards and dead players? (hint: These scarabs can never be allowed to hit the MT, due to the 'daze' effect which is devestating)`Anub'Rekhan
+Quote: I hear little hearts beating. Yesss... beating faster now. Soon the beating will stop.`Anub'Rekhan
+What boss casts Poison Bolt Volley in Naxxramas?`Grand Widow Faerlina`Faerlina
+What boss has worshippers as adds in Naxxramas?`Grand Widow Faerlina`Faerlina
+Quote: Your old lives, your mortal desires, mean nothing. You are acolytes of the master now, and you will serve the cause without question! The greatest glory is to die in the master's service!`Grand Widow Faerlina`Faerlina
+What boss will 'cocoon' players, in Naxxramas?`Maexxna
+What boss casts Web Sprays, in Naxxramas?`Maexxna
+What boss in Naxxramas drops the Wraith blade, a caster sword?`Maexxna
+What boss drops the epic T3 hands, in Naxxramas?`Maexxna
+Noth the Plaguebringer were once a notable wizard and ________ of Dalaran. (hint: proffesion in wow)`alchemist
+Kel'Thuzad froze ______________________'s heart in Naxxramas with cold magic, so that he would not have any feelings. This was needed, because of his guilt. He is now more undead then human.`Noth the Plaguebringer`Noth
+What boss in Naxxramas casts Curse of the Plaguebringer, which must be decursed at all costs, otherwise the raid will most probably wipe?`Noth the Plaguebringer`Noth
+Quote: Rise my soldiers! Rise, and fight once more!`Noth the Plaguebringer`Noth
+Quote: Glory to the master!`Noth the Plaguebringer`Noth
+What boss requires you to essentially 'dance' to avoid dying in Naxxramas?`Heigan the Unclean`Heigan
+What boss in Naxxramas teleports three people to a tunnel occasionally?`Heigan the Unclean`Heigan
+Quote: Close your eyes.. sleep`Heigan the Unclean
+WOW_TRIVIA_ANSWERS2[908] = "Heigan"
+Quote: The end is upon you.`Heigan the Unclean`Heigan
+What boss in Naxxramas requires very good individual coordination from everyone?`Heigan the Unclean`Heigan
+What boss in Naxxramas requires 3x Greater Shadow Protection Potions?`Loatheb
+What boss casts Corrupted Mind, which makes you able to only cast one healing spell per minute, in Naxxramas?`Loatheb
+What boss spawns spores, which upon killing grants five players the fungal bloom debuff? (increases you're crit and hit, and causes you to make no threat)`Loatheb
+What boss in Naxxramas casts Unbalancing Strike, which need to be taken by one of his adds?`Instructor Razuvious`Razuvious
+What boss in Naxxramas casts Disrupting Shout, which reduces the mana of everyone it hits by up to 4000 and deals twice the mana burned this way in damage?`Instructor Razuvious`Razuvious
+Quote: The time for practice is over! Show me what you've learned!`Instructor Razuvious`Razuvious
+Quote: Show me what you've got!`Instructor Razuvious`Razuvious
+Quote: An honorable... death..`Instructor Razuvious`Razuvious
+The bosses in Naxxramas can sometimes drop ______ of Atiesh. Sapphiron and Kel'Thuzad will never drop one, though.`Splinter
+What boss in Naxxramas looks nearly identical to Heigan the Unclean?`Gothik the Harvester`Gothik
+What boss in Naxxramas will have you kill Spectral Trainee's, Unrelenting Riders and other undeads, before you can face him?`Gothik the Harvester`Gothik
+What boss in Naxxramas will casts Harvest Soul sometimes on the tank, which reduces stats by 10% and is stackable?`Gothik the Harvester`Gothik
+Quote: Foolishly you have sought your own demise. Brazenly you have disregarded powers beyond your understanding. You have fought hard to invade the realm of the harvester. Now there is only one way out - to walk the lonely path of the damned.`Gothik the Harvester`Gothik
+Quote: I have waited long enough! Now, you face the harvester of souls!`Gothik the Harvester`Gothik
+The Four Horsemen are Highlord Mograine, Thane Korth'azz, Lady Blaumeux, and Sir _______. They are in service of the powerful lich, Kel'Thuzad.`Zeliek
+Highlord Mograine's special ability in Naxxramas, is the _____________. It deals 2160-2640 frontload damage and a 4800/8 sec damage DoT. It is identical to Ragnaros's Elemental Fire, and can be mitigated by fire resist.`Righteous Fire
+WOW_TRIVIA_QUESTIONS[927] = "Thane Korth'azz's special ability in Naxxrams, is the ________. It deals roughly 14250-15750~ fire damage, which is shared between all people within 8 yards from where the meteor landed.";`Meteor
+Sir Zeliek's special ability is called ______________. It will chain around everyone within 5 yards of the last hitted target, so it's important too not get to close. It wont loop however, but it deals twice the damage each hit.`Holy Wrath
+WOW_TRIVIA_QUESTIONS[929] = "Lady Blaumeux's special ability in Naxxramas, is the ____________. It will summon an area of damage that deals shadow damage if you step into it. It has a small radius however, only 5~ yards. It lasts for 1 minute and 30 seconds.";`Void Zone
+Who drops the Ashbringer, in Naxxramas?`Highlord Mograine
+You need to tank each of the horsemen seperately, in Naxxramas. (True/False)?`True
+Quote: Life is meaningless. It is in death that we are truly tested.`Highlord Mograine`Mograine
+Quote: The first kill goes to me! Anyone care to wager?`Lady Blaumeux`Blaumeux
+Quote: I'm gonna enjoy killin' these slack-jawed daffodils!`Thane Korth'azz`Thane Korthazz
+Quote: Do not continue! Turn back while there's still time!`Sir Zeliek`Zeliek
+This boss in Naxxramas is a major difficulty for healers especially. The healing needs to be perfect for this boss, and the same with the DPS. This boss is the first boss of the Abonimation Wing.`Patchwerk
+If this boss in Naxxramas enters a berserker rage, then the raid will have around 12 seconds max to kill him, before they are all dead.`Patchwerk
+This boss in Naxxramas is known for its difficulty. This boss is probably the hardest of the first ones in each wing. His special ability 'Hateful Strike', can be devestating for the MT. This encounter is hard for every class.`Patchwerk
+Patchwerk is an aggro-sensitive encounter. (True/False)?`false
+Quote: No more play?`Patchwerk
+Quote: _______ want to play.`Patchwerk
+Quote: Kel'Thuzad make _______ his avatar of war!`Patchwerk
+Quote: What happened to... Patch...`Patchwerk
+Grobbulus and _________ drops the tier 3 shoulders.`Patchwerk
+____________ in Naxxramas emits poision clouds which is 10 yards wide and deals a heavy ammount of nature damage if you stand in it. The MT for this boss needs to move steadily but slowly, to avoid them.`Grobbulus
+What boss in Naxxramas is required to be ranged down, whilsts the meele deals with the slimes from this boss, when they spawn? (the meele players also helps out with the ranged dps, when there are no slimes up)`Grobbulus
+What boss in Naxxramas drops The End of Dreams, a mace for druids?`Grobbulus
+What boss in Naxxramas has a ability called 'Decimate', which is needed in order to kill him?`Gluth
+What boss spawns a zombie every 10 seconds, which you need to kite for 105 seconds, together with the others that will spawn in that time?`Gluth
+What boss has Enrage, Mortal Wound, Frenzy, Decimate, Terrifying Roar, and Devour Zombie as abilities, in Naxxramas?`Gluth
+This boss will 'polarize' a raid group, making 50% negativily charged and 50% positively charged. They need to be seperated as fast as possible, otherwise they will deal 2k nature damage to all opposite-charged players within 10 yards.`Thaddius
+If no one is in meele range of this boss, in Naxxramas, this boss will throw 'Ball Lightning' on players, dealing around 8k nature damage on every throw.`Thaddius
+Only by splitting the raid in half can this boss in Naxxramas be killed. Some exceptions can probably be made, but not more then some few.`Thaddius
+Quote: You are too late... I... must... OBEY!`Thaddius
+Quote: Now YOU feel pain!`Thaddius
+Quote: You die now!`Thaddius
+What boss in Naxxramas drops the tier 3 headpieces?`Thaddius
+What boss in Naxxramas casts Frost Breath? The boss will take a deep breath sometimes and breathe a cloud of frost which will slowly fall to the ground and explode, dealing 75k-125k when it touches it, in a 70 yard radius.`Sapphiron
+On which boss in Naxxramas do you need to stay behind iceblocked individuals, to avoid dying?`Sapphiron 
+Sapphiron in Naxxramas was originally a blue dragon that was protecting Northrend, untill he was killed by _________ and his forces. He was resurrected as a undead shortly after, by Arthas.`Arthas
+What boss drops 'The Face of Death', the best tanking shield availible pre-bc, in Naxxramas?`Sapphiron
+Kel'Thuzad is immune to frost attacks. (True/False)?`false
+The Four Horsemen drops the _______ of T3.`chests
+Where can you find Carrion Spinners?`Naxxramas`Naxx
+Quote: Do not rejoice... your victory is a hollow one... for I shall return with powers beyond your imagining!`Kel'Thuzad
+Quote: The dark void awaits you!`Kel'Thuzad
+Quote: Very well... warriors of the frozen wastes, rise up, I command you to fight, kill, and die for your master. Let none survive...`The lich king`Lich king
+Quote: Fools, you think yourselves triumphant? You have only taken one step closer to the abyss!`Kel'Thuzad
+What boss drops the rings of T3?`Kel'Thuzad
+What boss in Naxxramas drops Fists of the Unrelenting, a Fury Warrior gauntlet?`Sapphiron
+On stage three of this boss, this boss will summon five Guardians of Icecrown. They are tough and everytime they switch target, they gain a +15% more damage and +10% size buff. These buffs stacks, and remains throughout the encounter.`Kel'Thuzad
+Who drops 'Might of Menethil', in Naxxramas?`Kel'Thuzad
+You can find Archmage Tarsis Kir-Moldir in his tower, in Azshara. (True/False)?`false
+Quote: The end is upon you!`Kel'Thuzad
+What is the Warrior's tier 3 called?`Dreadnaught
+What is the Mage's tier 3 called?`Frostfire Regalia`Frostfire
+What is the Priest's tier 3 called?`Vestments of Faith
+What is the Warlock's tier 3 called?`Plagueheart Raiment`Plagueheart
+What is the Shaman's tier 3 called?`The Earthshatterer`Earthshatterer
+What is the Paladin's tier 3 called?`Redemption Armor`Redemption
+What is the Druid's tier 3 called?
+WOW_TRIVIA_ANSWERS1[981] = "Dreamwalker Raiment"`Dreamwalker
+Who drops the 'Misplaced Servo Arm' in Naxxramas? (hint: a term used a lot in instances)`trash mobs`trash
+Which bosses in Naxxramas drops the T3 feets? (name both, or one of them)`Razuvious and Gothik`Instructor Razuvious and Gothik the Harvester`Gothik and Razuvious`Gothik the Harvester and Instructor Razuvious`Gothik`Gothik the Harvester`Instructor Razuvious`Razuvious
+What boss drops the T3 leggings, in Naxxramas?`Loatheb
+Which bosses in Naxxramas drops the T3 waist? (name both, or one of them)`Noth and Heigan`Noth the Plaguebringer and Heigan the Unclean`Heigan and Noth`Heigan the Unclean and Noth the Plaguebringer`Noth`Heigan`Noth the Plaguebringer`Heigan the Unclean
+What boss in Naxxramas drops the T3 headpieces?`Thaddius
+What boss in Naxxramas can drop the Feet/Waist/Shoulder/Wrist of T3?`Gluth
+Which bosses in Naxxramas drops the T3 shoulders? (name both)`Patchwerk and Grobbulus`Grobbulus and Patchwerk
+Quote: Your fate is sealed!`The Twin Emperors`Twin Emperors
+Quote: Your friends will abandon you.`C'thun`Cthun
+Quote: Your heart will explode.`C'thun`Cthun
+Quote: Death is close.`C'thun`Cthun
+Quote: Tremble mortals, and despair! Doom has come to this world!`Archimonde
+Quote: This world will burn!`Archimonde
+Quote: I am the coming of the end `Archimonde
+Quote: Abandon all hope! The legion has returned to finish what was begun so many years ago. This time there will be no escape!`Azgalor
+Quote: Cry for mercy! Your meaningless lives will soon be forfeit.`Kaz'rogal
+Quote: You are defenders of a doomed world. Flee here and perhaps you will prolong your pathetic lives.`Anetheron
+Quote: Succumb to the icy chill... of death!`Rage Winterchill
+Quote: Ashes to ashes, dust to dust.`Rage Winterchill
+Quote: My patience has run out! Die, die!`High Warlord Naj'entus`High Warlord Najentus`Najentus
+Quote: YOU WILL SHOW THE PROPER RESPECT!`Teron Gorefiend
+Quote: I'll rip the meat from your bones!`Gurtogg Bloodboil
+Quote: You can have anything you desire... for a price.`Reliquary of Souls`Reliquary`Essence of Souls
+Quote: So, business... or pleasure?`Mother Shahraz`Shahraz
+Quote: You're not cut out for this!`Illidari Council
+Quote: Behold the flames of Azzinoth!`Illidan Stormrage
+Naxxramas will become a 25man in the expansion. (True/False)?`true
+WOW_TRIVIA_QUESTIONS[1009] = "The nerubian spiderlords are followers of the __________ in Northrend."`Old Gods
+Quote: Shhh... it will all be over soon.`Anub'Rekhan

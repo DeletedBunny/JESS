@@ -1,7 +1,8 @@
 const Discord = require("discord.js");
 
+
 class avatar {
- 
+
     static async run(jbot, message, args) {
         let loadMessage = await message.channel.send("Loading "+message.author.username+"'s Avatar")
 
