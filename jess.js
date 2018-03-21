@@ -2,6 +2,7 @@ const Discord = require("discord.js");
 const newdate = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
 const auth = require("./auth.json");
 const fs = require("fs");
+const playingTrivia = false;
 
 class Jess extends Discord.Client {
     constructor(options) {
