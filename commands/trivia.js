@@ -1,12 +1,26 @@
 const Discord = require("discord.js");
 const fs = require("fs");
 
+
 var playing = false;
 
 class trivia {
 
 
     static async run(jbot, message, args) {
+
+        var filesA = [];
+        var files = fs.readdirSync("./trivia");
+        for (var i in files) {
+            var name = "./trivia" + '/' + files[i];
+            if (fs.statSync(name).isDirectory()) {
+                getFiles(name, filesA);
+            } else {
+                filesA.push(name.slice(9).slice(0, -4));
+            }
+
+        }
+
         let embed = new Discord.RichEmbed()
             .setColor("#9B59B6")
             .addField("Games", "1. South Park \n2. World of Warcraft");
@@ -15,29 +29,26 @@ class trivia {
         await message.channel.send(embed)
             .then(() => {
                 message.channel.awaitMessages(function checkGame(response) {
-                    if(response.content === 'southpark') {
-                        return true;
-                    }
-                    else if(response.content === 'worldofwarcraft') {
-                        return true;
-                    }
-                    else {
-                        return false;
+                    for (var i = 0; i < (filesA.length + 1); i++) {
+
+                        if (response.content === filesA[i]) {
+                            return true;
+
+                        }
                     }
                 }, {
-                    max: 1,
-                    time: 30000,
-                    errors: ['time'],
-                })
+                        max: 1,
+                        time: 30000,
+                        errors: ['time'],
+                    })
                     .then((collected) => {
                         playing = true;
-                        var triviaList = fs.readFileSync("./trivia/wow.txt").toString().split('\n');
-                        //console.log(JSON.stringify(triviaList, null, 4));
+                        var triviaList = fs.readFileSync(`./trivia/${collected.first().content}.txt`).toString().split('\n');
                         message.channel.send(`Trivia initialized: ${collected.first().content}`);
                         this.playingTrivia(jbot, message, args, triviaList);
                     })
-                    .catch(() => {
-                        message.channel.send('Trivia Choice error. Please re-try');
+                    .catch((e) => {
+                        console.log(e);
                     });
             });
     }
@@ -54,13 +65,13 @@ class trivia {
 
         var triviaParts = triviaList[randomNumber].split('`');
 
-            //ask question from file
+        //ask question from file
 
-            await message.channel.send(triviaParts[0])
+        await message.channel.send(triviaParts[0])
             //check for answers from file
-            
+
             .then(() => {
-                message.channel.awaitMessages(response => response.content === (triviaParts[1]||triviaParts[2]||triviaParts[3]||triviaParts[4]), {
+                message.channel.awaitMessages(response => response.content === (triviaParts[1] || triviaParts[2] || triviaParts[3] || triviaParts[4]), {
                     max: 1,
                     time: 30000,
                     errors: ['time'],
@@ -80,12 +91,12 @@ class trivia {
 
 
 
-            //won't be using this methodology 
-            //await jbot.on("message", async message => {
-            //if (message.author.bot) return;
-            //if (message.channel.type === "dm") return;
-        };
-    }
+        //won't be using this methodology 
+        //await jbot.on("message", async message => {
+        //if (message.author.bot) return;
+        //if (message.channel.type === "dm") return;
+    };
+}
 
 
 
