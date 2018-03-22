@@ -40,12 +40,35 @@ class trivia {
 
         var randomNumber = Math.floor(Math.random() * triviaList.length);
 
-        console.log(randomNumber);
+        console.log(triviaList[randomNumber])
 
+        var triviaParts = triviaList[randomNumber].split('`');
 
             //ask question from file
+
+            await message.channel.send(triviaParts[0])
             //check for answers from file
             
+            .then(() => {
+                message.channel.awaitMessages(response => response.content === (triviaParts[1]||triviaParts[2]||triviaParts[3]||triviaParts[4]), {
+                    max: 1,
+                    time: 30000,
+                    errors: ['time'],
+                })
+                    .then((collected) => {
+                        console.log("bob");
+                    })
+                    .catch(() => {
+                        message.channel.send('rawr');
+                    });
+            });
+
+
+
+
+
+
+
 
             //won't be using this methodology 
             //await jbot.on("message", async message => {

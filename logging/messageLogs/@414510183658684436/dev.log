@@ -78,3 +78,57 @@
 2018-03-21 23:37:40 <@411319812854120458> BrianSQL[Warden]: southpark
 2018-03-21 23:38:04 <@411319812854120458> BrianSQL[Warden]: .jess trivia
 2018-03-21 23:38:04 <@411319812854120458> BrianSQL[Warden]: southpark
+2018-03-22 00:27:53 <@411319812854120458> BrianSQL[Warden]: .jess trivia
+2018-03-22 00:27:53 <@411319812854120458> BrianSQL[Warden]: .jess trivia
+2018-03-22 00:27:53 <@411319812854120458> BrianSQL[Warden]: southpark
+2018-03-22 00:28:23 <@411319812854120458> BrianSQL[Warden]: .jess trivia
+2018-03-22 00:28:23 <@411319812854120458> BrianSQL[Warden]: .jess trivia
+2018-03-22 00:28:23 <@411319812854120458> BrianSQL[Warden]: southpark
+2018-03-22 00:33:26 <@411319812854120458> BrianSQL[Warden]: .jess trivia
+2018-03-22 00:33:26 <@411319812854120458> BrianSQL[Warden]: southpark
+2018-03-22 00:34:00 <@411319812854120458> BrianSQL[Warden]: .jess trivia
+2018-03-22 00:34:00 <@411319812854120458> BrianSQL[Warden]: southpark
+2018-03-22 01:25:49 <@411319812854120458> BrianSQL[Warden]: .jess trivia
+2018-03-22 01:25:49 <@411319812854120458> BrianSQL[Warden]: southpark
+2018-03-22 01:26:20 <@411319812854120458> BrianSQL[Warden]: .jess trivia
+2018-03-22 01:26:20 <@411319812854120458> BrianSQL[Warden]: southpark
+2018-03-22 01:26:42 <@411319812854120458> BrianSQL[Warden]: .jess trivia
+2018-03-22 01:26:42 <@411319812854120458> BrianSQL[Warden]: southpark
+2018-03-22 01:26:42 <@411319812854120458> BrianSQL[Warden]: Desolace
+2018-03-22 01:26:42 <@411319812854120458> BrianSQL[Warden]: Desolace
+2018-03-22 01:26:42 <@411319812854120458> BrianSQL[Warden]: `Desolace
+2018-03-22 01:26:42 <@183635937924874240> CensedPie: lel
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: .jess trivia
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: southpark
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: Righteous Fire
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: kk works
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: yeah
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: I was gonna look into having multiple games thing
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: .jess trivia
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: where it checks the text
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: southpark
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: test
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: Maelstrom
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: ok it waits for 1 correct answer if you leave it as max: 1
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: yeah
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: it had an error before
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: idk why
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: i'm long past that
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: lol
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: but it only checks southpark
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: does it check something else too?
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: lol
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: I pulled what you pushed 2 hours ago
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: i tried to tell you before you left
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: it didn't work because you had it as const not var
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: lol
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: for the boolean
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: lmfao haha
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: it's okay though.
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: oh lol ok
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: yeah i only have it checking south park atm
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: building things up in small steps
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: yeah I wanna see how to fix that
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: hold on let me push my code
+2018-03-22 01:27:42 <@183635937924874240> CensedPie: ok
+2018-03-22 01:27:42 <@411319812854120458> BrianSQL[Warden]: because i havent updated
