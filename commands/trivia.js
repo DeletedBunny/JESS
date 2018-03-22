@@ -23,15 +23,15 @@ class trivia {
 
         let embed = new Discord.RichEmbed()
             .setColor("#9B59B6")
-            .addField("Games", "1. South Park \n2. World of Warcraft");
+            .addField("Games", "1. South Park (sp) \n2. World of Warcraft (wow)");
 
 
         await message.channel.send(embed)
             .then(() => {
                 message.channel.awaitMessages(function checkGame(response) {
-                    for (var i = 0; i < (filesA.length + 1); i++) {
+                    for (var i = 0; i < (filesA.length); i++) {
 
-                        if (response.content === filesA[i]) {
+                        if (response.content.toLowerCase() === filesA[i].toLowerCase()) {
                             return true;
 
                         }
