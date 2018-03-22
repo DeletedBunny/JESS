@@ -14,7 +14,17 @@ class trivia {
 
         await message.channel.send(embed)
             .then(() => {
-                message.channel.awaitMessages(response => response.content === 'southpark', {
+                message.channel.awaitMessages(function checkGame(response) {
+                    if(response.content === 'southpark') {
+                        return true;
+                    }
+                    else if(response.content === 'worldofwarcraft') {
+                        return true;
+                    }
+                    else {
+                        return false;
+                    }
+                }, {
                     max: 1,
                     time: 30000,
                     errors: ['time'],
