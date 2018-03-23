@@ -3,7 +3,6 @@ const newdate = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
 const auth = require("./auth.json");
 const fs = require("fs");
 
-
 class Jess extends Discord.Client {
     constructor(options) {
         super(options);
@@ -27,8 +26,6 @@ fs.readdir("./commands/", (err, dirs) => {
 
     });
 });
-
-
 
 jbot.on("ready", () => {
     // This event will run if the bot starts, and logs in, successfully.
@@ -65,7 +62,7 @@ jbot.on("message", async message => {
 
 
     // If the message doesn't have the identifier .jess don't process it.
-    if (message.content.indexOf(auth.prefix) !== 0) return;
+    if (message.content.toLowerCase().indexOf(auth.prefix) !== 0) return;
 
     // Split and trim the message content into an array of args = ["arg1", "arg2", "arg3"]
     // Ignores prefix because of slice command
@@ -78,9 +75,8 @@ jbot.on("message", async message => {
     if (typeof args[1] === "undefined") {
         if (execom) execom.run(jbot, message, args);
     }
-    else {
-        if (execom) execom.runPost(jbot, message, args);
-    }
+    else if (execom) execom.runPost(jbot, message, args);
+
 
     /*// command for adding user's to the muted role.
     if (command === "mute") {
