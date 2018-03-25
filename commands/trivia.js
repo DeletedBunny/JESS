@@ -77,12 +77,12 @@ class trivia extends Command {
                     })
                     .then(async (collected) => {
                         var triviaList = await fs.readFileSync(`./trivia/${collected.first().content}!${indexN}.txt`).toString().split('\n');
-                        await message.channel.send(`Trivia initialized: ${indexN}`);
+                        message.channel.send(`Trivia initialized: ${indexN}`);  //await removed
                         playing = true;
                         this.playingTrivia(jbot, message, args, triviaList);
                     })
                     .catch(async (error) => {
-                        await message.channel.send("You did not choose a correct Trivia Choice. Try again with .jess trivia");
+                        message.channel.send("You did not choose a correct Trivia Choice. Try again with .jess trivia");  //await removed
                         console.log(error);
                         return;
                     });
@@ -103,18 +103,18 @@ class trivia extends Command {
     static async playingTrivia(jbot, message, args, triviaList) {
         if (!playing) return false;
 
-        var randomNumber = await Math.floor(Math.random() * triviaList.length);
+        var randomNumber = Math.floor(Math.random() * triviaList.length);  //await removed
 
         while (randomNumber === pastRandom) {
-            randomNumber = await Math.floor(Math.random() * triviaList.length);
+            randomNumber = Math.floor(Math.random() * triviaList.length);  //await removed
         }
         pastRandom = randomNumber;
 
-        var triviaParts = await triviaList[randomNumber].split('`');
+        var triviaParts = triviaList[randomNumber].split('`');  //await removed
 
         //Trivia Answer Checking.
         //console.log(triviaParts[1]);
-        await message.channel.send(triviaParts[0]);
+        message.channel.send(triviaParts[0]);  //await removed
 
         if (nextm !== null) {
             await nextm.delete();
@@ -131,13 +131,13 @@ class trivia extends Command {
             .then(async(collected) => {
                 //message.channel.send("test"+collected.first().content);
                 if (collected.first().content === null) return false;
-                await message.channel.send(message.author.username + " is Correct!");
+                message.channel.send(message.author.username + " is Correct!");  //await removed
                 this.nextQuestion(jbot, message, args, triviaList);
 
             })
             .catch(async(error) => {
                 if (!playing) return false;
-                await message.channel.send(`No one got it, the answer was: ${triviaParts[1]}`);
+                message.channel.send(`No one got it, the answer was: ${triviaParts[1]}`);  //await removed
                 this.nextQuestion(jbot, message, args, triviaList);
 
             });

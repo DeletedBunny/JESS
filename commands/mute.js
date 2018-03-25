@@ -19,7 +19,7 @@ class mute extends Command {
 
     static async runPost(jbot, message, args) {
         if (typeof (message.mentions.members.first()) === "undefined") {
-            await message.channel.send("Incorrect syntax. You must specify a user to mute");
+            message.channel.send("Incorrect syntax. You must specify a user to mute");  //await removed
             return false;
         }
         // Find Muted role.
@@ -27,13 +27,13 @@ class mute extends Command {
 
         // Check if role exists so bot can add to muted role.
         if (role === null) {
-            await message.channel.send("Muted role doesn't exist. Please create a role named Muted where the user does not have permissions to write messages.");
+            message.channel.send("Muted role doesn't exist. Please create a role named Muted where the user does not have permissions to write messages.");  //await removed
             return;
         }
         // Get mentioned user and set their role.
         var member = message.mentions.members.first();
         await member.setRoles([role]).catch(console.error);
-        await message.channel.send(`${member}'s role was set to muted`)
+        message.channel.send(`${member}'s role was set to muted`);  //await removed
     }
 }
 

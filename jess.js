@@ -64,10 +64,10 @@ jbot.on("message", async message => {
 
     // Split and trim the message content into an array of args = ["arg1", "arg2", "arg3"]
     // Ignores prefix because of slice command
-    const args = await message.content.slice(auth.prefix.length).trim().split(/ +/g);
+    const args = message.content.slice(auth.prefix.length).trim().split(/ +/g);  //await removed
 
     //Args to lower case for processing in case people write ARG1 instead of arg1.
-    const command = await args[0].toLowerCase();
+    const command = args[0].toLowerCase();  //await removed
 
 
     let execom = await jbot.commands.get(command);
@@ -91,10 +91,10 @@ jbot.on("message", async message => {
     }
     else {
 
-        await message.channel.send("Error. You do not have the required permissions");
+        message.channel.send("Error. You do not have the required permissions");  //await removed
     }
 
-    if (!correctflag) await message.channel.send("Error. Command not recognized");
+    if (!correctflag) message.channel.send("Error. Command not recognized");  //await removed
 
 });
 
