@@ -1,10 +1,19 @@
 const Discord = require("discord.js");
+const Command = require("../core/command.js");
 
-class userinfo {
+class userinfo extends Command {
+
+    constructor(client) {
+        super(client, {
+            name: 'userinfo',
+            description: 'Retrives info on any user in channel.',
+            perms: "SEND_MESSAGES"
+        });
+    }
 
     static async run(jbot, message, args) {
-        let loadMessage = await message.channel.send("Loading "+message.author.username+"'s User Information")
-        let embed = new Discord.RichEmbed()
+        let loadMessage = await message.channel.send("Loading " + message.author.username + "'s User Information")
+        let embed = await new Discord.RichEmbed()
             .setColor("#9B59B6")
             .addField("Full Username", `${message.author.username}#${message.author.discriminator}`)
             .addField("ID", message.author.id)
@@ -19,15 +28,15 @@ class userinfo {
         // Get mentioned user for user info checking. 
         //var member = message.mentions.members.first();
         if (typeof (message.mentions.members.first()) === "undefined") {
-            this.run(jbot, message, args);
+            await this.run(jbot, message, args);
             return;
         }
-        
-        let member = message.mentions.members.first();
-        let loadMessage = await message.channel.send("Loading "+member.user.username+"'s Avatar")
+
+        let member = await message.mentions.members.first();
+        let loadMessage = await message.channel.send("Loading " + member.user.username + "'s Avatar")
 
         // Set embed properties and fields for user info output.
-        let embed = new Discord.RichEmbed()
+        let embed = await new Discord.RichEmbed()
             .setColor("#9B59B6")
             .addField("Full Username", `${member.user.username}#${member.user.discriminator}`)
             .addField("ID", member.user.id)

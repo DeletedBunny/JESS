@@ -9,7 +9,6 @@ class Jess extends Discord.Client {
         this.logger = require("./logging/logWriter");
         this.commands = new Discord.Collection();
     };
-
 }
 const jbot = new Jess();
 
@@ -23,7 +22,6 @@ fs.readdir("./commands/", (err, dirs) => {
         let commandImport = require(`./commands/${f}`);
         console.log(`${i + 1}: ${f} imported`);
         jbot.commands.set(commandImport.name, commandImport);
-
     });
 });
 
@@ -54,7 +52,7 @@ jbot.on("message", async message => {
     if (message.author.bot) return;
     if (message.channel.type === "dm") return;
 
-    let textInfo = (newdate + " " + message.author + " " + message.author.username + ": " + message.content + "\r\n");
+    let textInfo = await (newdate + " " + message.author + " " + message.author.username + ": " + message.content + "\r\n");
 
     // Use function myWrite to save message to a channel named file in a server named directory.
 
@@ -66,46 +64,38 @@ jbot.on("message", async message => {
 
     // Split and trim the message content into an array of args = ["arg1", "arg2", "arg3"]
     // Ignores prefix because of slice command
-    const args = message.content.slice(auth.prefix.length).trim().split(/ +/g);
+    const args = await message.content.slice(auth.prefix.length).trim().split(/ +/g);
 
     //Args to lower case for processing in case people write ARG1 instead of arg1.
-    const command = args[0].toLowerCase();
-
-    let execom = jbot.commands.get(command);
-    if (typeof args[1] === "undefined") {
-        if (execom) execom.run(jbot, message, args);
-    }
-    else if (execom) execom.runPost(jbot, message, args);
+    const command = await args[0].toLowerCase();
 
 
-    /*// command for adding user's to the muted role.
-    if (command === "mute") {
+    let execom = await jbot.commands.get(command);
 
-        // Boolean for if someone was found to mute.
-        var muted = false;
+    execomprops = new execom();
+    ///     console.log(execomprops.perms)
 
-        // Find Muted role.
-        var role = message.guild.roles.find("name", "Muted");
-
-        // Check if role exists so bot can add to muted role.
-        if (role === null) {
-            message.channel.send("Muted role doesn't exist. Please create a role named Muted where the user does not have permissions to write messages.");
-            return;
+    let correctflag = false;
+    if (message.member.hasPermission(`${execomprops.perms}`)) {
+        if (typeof args[1] === "undefined") {
+            if (execom) {
+                correctflag = true;
+                await execom.run(jbot, message, args);
+            }
         }
-        // Get mentioned user and set their role.
-        var member = message.mentions.members.first();
-        member.setRoles([role]).catch(console.error);
-        muted = true;
-
-        // If no one was found then send message about it.
-        if (!muted) {
-            message.channel.send("Can't find that person to mute.");
-            return;
+        else if (execom) {
+            correctflag = true;
+            await execom.runPost(jbot, message, args);
         }
 
     }
+    else {
 
-    */
+        await message.channel.send("Error. You do not have the required permissions");
+    }
+
+    if (!correctflag) await message.channel.send("Error. Command not recognized");
+
 });
 
 //Log the bot in.
