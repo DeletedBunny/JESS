@@ -49,4 +49,4 @@ Current packages on JESS are: discord.js , mkdir.
 ## Credits
 
 - [@BrianSQL: Core Developer.](https://goo.gl/t7xU66)
-- [@CensedPIE: Core Developer.](https://goo.gl/mMKJYW)
+- [@CensedPIE: Core Developer.](https://github.com/DeletedBunny/)
